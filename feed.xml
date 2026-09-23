@@ -3,12 +3,32 @@
     <title>zhuyunzhi</title>
     <link href="https://zhuyunzhi.com/feed.xml" rel="self" />
     <link href="https://zhuyunzhi.com" />
-    <updated>2026-09-22T17:26:12+08:00</updated>
+    <updated>2026-09-23T11:06:32+08:00</updated>
     <author>
         <name>Selim</name>
     </author>
     <id>https://zhuyunzhi.com</id>
 
+    <entry>
+        <title>测试文章 </title>
+        <author>
+            <name>Selim</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/ce-shi-wen-zhang/"/>
+        <id>https://zhuyunzhi.com/blog/ce-shi-wen-zhang/</id>
+
+        <updated>2026-09-23T11:06:32+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test post1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test post1</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hellow</title>
         <author>
