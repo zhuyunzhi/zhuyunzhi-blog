@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>zhuyunzhi</title>
-    <link href="https://zhuyunzhi-blog.pages.dev/feed.xml" rel="self" />
-    <link href="https://zhuyunzhi-blog.pages.dev" />
+    <link href="https://zhuyunzhi.com/feed.xml" rel="self" />
+    <link href="https://zhuyunzhi.com" />
     <updated>2026-09-22T17:26:12+08:00</updated>
     <author>
         <name>Selim</name>
     </author>
-    <id>https://zhuyunzhi-blog.pages.dev</id>
+    <id>https://zhuyunzhi.com</id>
 
     <entry>
         <title>Hellow</title>
         <author>
             <name>Selim</name>
         </author>
-        <link href="https://zhuyunzhi-blog.pages.dev/hellow.html"/>
-        <id>https://zhuyunzhi-blog.pages.dev/hellow.html</id>
+        <link href="https://zhuyunzhi.com/blog/hellow/"/>
+        <id>https://zhuyunzhi.com/blog/hellow/</id>
 
         <updated>2026-09-22T17:26:12+08:00</updated>
             <summary type="html">

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "zhuyunzhi",
     "description": "",
-    "home_page_url": "https://zhuyunzhi-blog.pages.dev",
-    "feed_url": "https://zhuyunzhi-blog.pages.dev/feed.json",
+    "home_page_url": "https://zhuyunzhi.com",
+    "feed_url": "https://zhuyunzhi.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Selim"
     },
     "items": [
         {
-            "id": "https://zhuyunzhi-blog.pages.dev/hellow.html",
-            "url": "https://zhuyunzhi-blog.pages.dev/hellow.html",
+            "id": "https://zhuyunzhi.com/blog/hellow/",
+            "url": "https://zhuyunzhi.com/blog/hellow/",
             "title": "Hellow",
             "summary": "Hello world !",
             "content_html": "\n  <p>\n    Hello world !\n  </p>",
