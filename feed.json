@@ -15,13 +15,14 @@
             "title": "Test1",
             "summary": "Test 1 ",
             "content_html": "<p>Test 1 </p>",
+            "image": "https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png",
             "author": {
                 "name": "Selim"
             },
             "tags": [
             ],
             "date_published": "2026-09-23T15:21:38+08:00",
-            "date_modified": "2026-09-23T15:21:38+08:00"
+            "date_modified": "2026-09-23T17:04:25+08:00"
         },
         {
             "id": "https://zhuyunzhi.com/blog/ce-shi-wen-zhang/",

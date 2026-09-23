@@ -3,7 +3,7 @@
     <title>zhuyunzhi</title>
     <link href="https://zhuyunzhi.com/feed.xml" rel="self" />
     <link href="https://zhuyunzhi.com" />
-    <updated>2026-09-23T15:21:38+08:00</updated>
+    <updated>2026-09-23T17:04:25+08:00</updated>
     <author>
         <name>Selim</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://zhuyunzhi.com/blog/test1/"/>
         <id>https://zhuyunzhi.com/blog/test1/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png" medium="image" />
 
         <updated>2026-09-23T15:21:38+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png" alt="" />
                     Test 1 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png" class="type:primaryImage" alt="" /></p>
                 <p>Test 1 </p>
             ]]>
         </content>

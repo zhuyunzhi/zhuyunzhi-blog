@@ -14,7 +14,11 @@
 </url>
 <url>
 <loc>https://zhuyunzhi.com/blog/test1/</loc>
-<lastmod>2026-09-23T15:21:38+08:00</lastmod>
+<lastmod>2026-09-23T17:04:25+08:00</lastmod>
+<image:image>
+<image:loc>https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://zhuyunzhi.com/all-insights/</loc>
@@ -23,6 +27,14 @@
 <url>
 <loc>https://zhuyunzhi.com/ce-shi-wen-zhang-1/</loc>
 <lastmod>2026-09-23T13:30:12+08:00</lastmod>
+</url>
+<url>
+<loc>https://zhuyunzhi.com/home/</loc>
+<lastmod>2026-09-23T16:24:25+08:00</lastmod>
+<image:image>
+<image:loc>https://zhuyunzhi.com/media/posts/2/hero-01-workspace.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://zhuyunzhi.com/insights/</loc>
