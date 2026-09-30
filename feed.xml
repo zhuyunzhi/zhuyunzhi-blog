@@ -3,49 +3,196 @@
     <title>zhuyunzhi</title>
     <link href="https://zhuyunzhi.com/feed.xml" rel="self" />
     <link href="https://zhuyunzhi.com" />
-    <updated>2026-09-28T10:00:57+08:00</updated>
+    <updated>2026-09-30T18:00:11+08:00</updated>
     <author>
-        <name>Selim</name>
+        <name>SelimZhu</name>
     </author>
     <id>https://zhuyunzhi.com</id>
 
     <entry>
-        <title>text2</title>
+        <title>Why Your Quotation Makes Buyers Go Quiet</title>
         <author>
-            <name>Selim</name>
+            <name>SelimZhu</name>
         </author>
-        <link href="https://zhuyunzhi.com/blog/text2/"/>
-        <id>https://zhuyunzhi.com/blog/text2/</id>
+        <link href="https://zhuyunzhi.com/blog/why-your-quotation-makes-buyers-go-quiet/"/>
+        <id>https://zhuyunzhi.com/blog/why-your-quotation-makes-buyers-go-quiet/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/13/cover-01-quotation-silence.png" medium="image" />
+            <category term="Sourcing &amp; Supply"/>
+            <category term="For manufacturers"/>
 
-        <updated>2026-09-28T10:00:57+08:00</updated>
+        <updated>2026-09-30T17:56:22+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    T2
+                        <img src="https://zhuyunzhi.com/media/posts/13/cover-01-quotation-silence.png" alt="" />
+                    Reading this as a buyer? &rarr; Read the other side: How to Read a Chinese Supplier's Quotation You spent two days on it. Material&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    T2
-  </p>
+                    <p><img src="https://zhuyunzhi.com/media/posts/13/cover-01-quotation-silence.png" class="type:primaryImage" alt="" /></p>
+                <div><p><em><strong>Reading this as a buyer?</strong> &rarr; Read the other side: <a href="/blog/how-to-read-a-chinese-quotation/">How to Read a Chinese Supplier's Quotation</a></em></p>
+
+<p>You spent two days on it. Material cost, labour, overhead, a margin you had already trimmed once. You sent the PDF on Tuesday. It is Friday, and there is nothing in your inbox.</p>
+
+<p>Not a rejection. Not a counter-offer. Silence.</p>
+
+<p>Most factory sales teams read that silence one of two ways: the price was too high, or the buyer found someone cheaper. Both readings are usually wrong. The buyer is sitting with your quotation open in a browser tab, stuck &mdash; not because of the number at the bottom, but because the document did not answer the question they were actually asking.</p>
+
+<p>That question is never <em>how much</em>. It is <em>can I plan around you?</em></p>
+
+<h2>A quotation is a decision document, not a price notice</h2>
+
+<p>The person reading your quote is rarely one person. On the buyer's side there are usually three readers, and they read different parts of the same page.</p>
+
+<p>The <strong>engineer</strong> reads the specification. They are checking whether what you described is what they asked for, and whether anything silently changed.</p>
+
+<p><strong>Procurement</strong> reads the commercial terms. They are comparing you against two or three other suppliers and against their own budget, and they need the shape of the deal to be comparable.</p>
+
+<p><strong>Finance or the owner</strong> reads the risk. Payment terms, currency, validity, what happens if the schedule slips. They are the ones who decide whether this becomes a real order.</p>
+
+<p>A quotation that answers only the engineer's question is a specification sheet with a price attached. It stalls at the second reader.</p>
+
+<p>So the goal of the document is not to state a number. It is to make it possible for three people who will never speak to you to reach the same conclusion: this supplier can be planned around.</p>
+
+<h2>What silence actually means</h2>
+
+<p>Silence after a quote is not one thing. In practice it shows up in three very different shapes:</p>
+
+<p><strong>1. The buyer needs something clarified but has no question to ask.</strong> They cannot ask a question about a blank. If your quote does not say which port, or which payment terms, or which year's certification, there is nothing to reply to. The email that would move things forward does not exist yet.</p>
+
+<p><strong>2. The buyer tried to pass it internally and it did not survive.</strong> The engineer sent it to finance, finance asked about payment terms, nobody had an answer, and it went into the "pending" folder. That folder is where most dead quotations live.</p>
+
+<p><strong>3. The buyer has genuinely decided against it.</strong> This happens, but it is the smallest of the three. And even here, you usually get a polite no &mdash; buyers rarely go silent on a quote they have actually read and rejected.</p>
+
+<p>Notice the pattern. <strong>The two most common reasons are both missing-information problems, not price problems.</strong> They are also the two you can fix without touching the number at the bottom.</p>
+
+<p>There is one useful signal for telling them apart: <strong>did the buyer ask you anything at all?</strong> If they asked follow-up questions before going quiet, they were engaged and something in the answers lost them. If they never asked anything, your quotation did not give them a foothold to ask from.</p>
+
+<h2>Five fields that manufacture doubt</h2>
+
+<p>These are the five things I see most often in quotations that go quiet. None of them is about price. All five are about whether the document can be trusted to mean what it says.</p>
+
+<h3>1. Specifications that could mean several things</h3>
+
+<p>Write down what you consider "standard" and then read it as a stranger. If a line says <em>Q235 steel frame, powder coated</em>, the engineer's next thought is not admiration &mdash; it is a list of questions. Which coating thickness? Which surface preparation standard? Is the frame welded or bolted? Is the coating for indoor or outdoor exposure?</p>
+
+<p>The failure here is not that you left out detail. It is that <strong>you wrote something that sounds specific but is not checkable</strong>. A buyer cannot agree to a specification they cannot verify, and they will not come back to ask about every line &mdash; there are twelve lines and it is Friday afternoon.</p>
+
+<p>The fix is to make each line answerable with a number or a standard reference. Not longer. More exact.</p>
+
+<h3>2. A price with no conditions attached</h3>
+
+<p>A bare number is not a price. It is a starting position, and the buyer knows it.</p>
+
+<p>If the price does not say what it does and does not include, the buyer has to assume the worst &mdash; that everything is extra. Loading, packing for sea freight, documentation, testing, the third-party inspection they will almost certainly ask for. Every unstated item becomes a risk they cannot quantify, and unquantified risk reads as a hidden cost.</p>
+
+<p>The result is a quotation that gets mentally marked up by the buyer, then compared against a competitor who listed their exclusions. On paper you look competitive. In the buyer's spreadsheet you are not.</p>
+
+<h3>3. Delivery premises that are simply missing</h3>
+
+<p>"When can you deliver" is the second question every buyer asks, and it is the one factories answer most loosely.</p>
+
+<p>Fifteen days from what? From order confirmation, from deposit, from drawing approval, from the arrival of a component you have not ordered yet? Each of these is a different date. If you write <em>15 days</em> with no anchor, the buyer has to guess &mdash; and if they guess generously and you miss it, you have broken a promise you never actually made.</p>
+
+<p>Delivery also needs its other half: <strong>what happens if it moves.</strong> A schedule without any statement about what causes delay is a promise the factory has not agreed to.</p>
+
+<h3>4. No validity date, no currency, no payment terms</h3>
+
+<p>These three take one line each and their absence is one of the loudest signals in the document.</p>
+
+<p>A price with no validity period quietly says <em>this number may change at any time, for reasons I will decide later</em>. Buyers price that uncertainty in.</p>
+
+<p>An unstated currency is worse than it sounds. Even when the amount is obviously in your local currency, leaving it out signals that you have not thought about who is paying and from where &mdash; which is usually the first sign of a supplier who has not exported much.</p>
+
+<p>And payment terms are where most cross-border deals are actually won or lost. If you do not state yours, the buyer will not ask you to invent them; they will compare you against a supplier who did.</p>
+
+<h3>5. No note on what changed since the last quote</h3>
+
+<p>This one only appears on repeat quotations, and it costs factories more than they realise.</p>
+
+<p>When you send a revised quote &mdash; after a specification change, a quantity update, a material move &mdash; the buyer's first task is a diff. They will compare line by line, and any number that moved without explanation becomes a question mark.</p>
+
+<p>One line at the top solves it: <em>changes from the previous revision are highlighted</em>. It tells the reader you keep track, which is a small proof of the same thing they are trying to assess in you overall.</p>
+
+<h2>The quotation sheet that gets a reply</h2>
+
+<p>You do not need a new template every time. You need the same fields, present every time, so the reader stops hunting.</p>
+
+<p><strong>Product and specification</strong></p>
+
+<ul>
+  <li>Line item name, matching the buyer's own reference or drawing number where possible</li>
+  <li>Specification with units and standards named, not adjectives</li>
+  <li>Quantity quoted, and the price break for the quantities either side of it</li>
+  <li>What is included in the item price and what is not</li>
+</ul>
+
+<p><strong>Commercial terms</strong></p>
+
+<ul>
+  <li>Unit price, currency stated explicitly</li>
+  <li>Incoterm, named with the location &mdash; not just <em>FOB</em> but <em>FOB Shanghai</em></li>
+  <li>Payment terms, with the deposit percentage and the balance trigger spelled out</li>
+  <li>Validity period, with a date rather than "30 days"</li>
+  <li>Minimum order quantity and what happens below it</li>
+</ul>
+
+<p><strong>Delivery and compliance</strong></p>
+
+<ul>
+  <li>Lead time, anchored to a named event</li>
+  <li>Packing method and whether export packing is included</li>
+  <li>Port or airport of departure</li>
+  <li>Certificates supplied, named specifically</li>
+  <li>Inspection arrangement, and who pays for it</li>
+  <li>A named contact, and the single next step you are proposing</li>
+</ul>
+
+<p>That is around twenty lines. It is not a long document &mdash; it is a document where nothing is left for the reader to assume.</p>
+
+<h2>Three habits that quietly cost you replies</h2>
+
+<p><strong>Quoting faster than you can quote completely.</strong> Speed is genuinely valuable, and buyers notice it. But a fast incomplete quote usually creates a second round of questions, which means the clock resets and you are now slower than the careful supplier. If you must send early, say what is provisional.</p>
+
+<p><strong>Sending everything you know.</strong> The opposite mistake. A quotation padded with capability paragraphs pushes the terms into page three, and the reader who needed the payment terms stops looking. Put the terms where they can be found in one screen, and put the brochure somewhere else.</p>
+
+<p><strong>Ending with "let me know if you have any questions."</strong> This feels polite and it is the weakest possible close. It hands the next move to someone who is busy and has no reason to make one. Always end with a specific, small, easy next step.</p>
+
+<h2>What to do in the first 24 hours after sending</h2>
+
+<p>The quotation is not the end of the work. The 24 hours after sending decide whether it gets read or filed.</p>
+
+<p>Send a short separate email &mdash; three lines, not a repeat of the quote &mdash; that names the one thing you would like confirmed first, and gives a date you will follow up. <em>"I would like to check one thing before you take this further: is the delivery destination a port or an inland site? I will follow up on Thursday either way."</em></p>
+
+<p>That does three things at once. It gives them a trivial question to answer, which restarts the conversation. It shows you are tracking the file rather than waiting on it. And it sets up your next message as something you promised, not something you are chasing.</p>
+
+<p>When Thursday comes, follow up with a reason. Not <em>just checking in</em> &mdash; that is the email buyers delete. Something concrete: a clarification, a photo of a similar job, a note that material pricing moves at the end of the month.</p>
+
+<h2>The one thing to remember</h2>
+
+<p>Buyers do not go quiet because a number is too high. They go quiet when the document they received leaves them with more questions than they have time to ask &mdash; and the easiest way to remove questions is not to write more, but to leave fewer blanks.</p>
+
+<p>If your quote can be read by an engineer, a buyer and a finance person, each finding what they need without emailing anyone, it will get a reply. Not always a yes. But a reply.</p>
+
+<p><em>If you would like a second pair of eyes on how your quotations read to a buyer, that is exactly the kind of thing I write about &mdash; <a href="/work-with-me/">get in touch</a>.</em></p></div>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Why Your B2B Website Gets Traffic but No Leads</title>
         <author>
-            <name>Selim</name>
+            <name>SelimZhu</name>
         </author>
         <link href="https://zhuyunzhi.com/blog/why-your-b2b-website-gets-traffic-but-no-leads/"/>
         <id>https://zhuyunzhi.com/blog/why-your-b2b-website-gets-traffic-but-no-leads/</id>
         <media:content url="https://zhuyunzhi.com/media/posts/9/cover-03-traffic-no-leads.png" medium="image" />
+            <category term="Content &amp; Site"/>
 
         <updated>2026-09-23T17:52:36+08:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://zhuyunzhi.com/media/posts/9/cover-03-traffic-no-leads.png" alt="" />
-                    The seven gates between a visitor and an inquiry — and how to test each one in an afternoon. A&hellip;
+                    The seven gates between a visitor and an inquiry — and how to test each one in an afternoon. A plant manager in Rotterdam&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -290,52 +437,6 @@
 
   <p>
     Write them down, publish them where a buyer can find them, and put a name at the end of the contact form. That is the whole job.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Test1</title>
-        <author>
-            <name>Selim</name>
-        </author>
-        <link href="https://zhuyunzhi.com/blog/test1/"/>
-        <id>https://zhuyunzhi.com/blog/test1/</id>
-        <media:content url="https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png" medium="image" />
-
-        <updated>2026-09-23T15:21:38+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png" alt="" />
-                    Test 1 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://zhuyunzhi.com/media/posts/8/og-image-1200x630.png" class="type:primaryImage" alt="" /></p>
-                <p>Test 1 </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hello</title>
-        <author>
-            <name>Selim</name>
-        </author>
-        <link href="https://zhuyunzhi.com/blog/hellow/"/>
-        <id>https://zhuyunzhi.com/blog/hellow/</id>
-
-        <updated>2026-09-22T17:26:12+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Hello world !
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Hello world !
   </p>
             ]]>
         </content>
