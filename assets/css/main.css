@@ -1023,3 +1023,29 @@ body.is-still .faq__item.is-open .faq__a,body.is-still .faq__item .faq__a{max-he
 /* ---- 无 JS 兜底：进场元素直接可见，绝不空白 ---- */
 html:not(.has-js) .reveal{opacity:1;transform:none}
 html:not(.has-js) .mnav{display:none}
+
+/* ---- 关于页（page-about.hbs）----
+   区块本身全部复用全站既有组件（.pagehead / .split / .facts / .quote / .now / .letter），
+   这里只处理三件「复用不了」的小事。 */
+/* 1) 自述列里的正文比正文页窄，按设计稿压到 16.5px；
+      并取消 .prose 对首段的「导语放大」——那是文章页的处理，放简历里会突兀。 */
+.about .who__bio{font-size:16.5px}
+.about .who__bio > p:first-of-type{font-size:1em;line-height:1.75}
+/* 2) 两个行动按钮成一行，随宽度自动换行 */
+.about .who__act{margin-top:26px;display:flex;flex-wrap:wrap;align-items:center;gap:16px}
+/* 3) 「我在做什么」三格：按模板写出的 data-cols 定列数。
+     为什么不用 auto-fit —— 试过 .about .facts{repeat(auto-fit,minmax(0,1fr))}：
+       ⓐ 它的权重 (0,2,0) 高于主题在 @media(max-width:820px) 里的 .facts{1fr} (0,1,0)，
+          于是移动端那个「塌成单列」的断点被整个压掉；
+       ⓑ 固定像素下限（minmax(190px,1fr)）又会在某个中间宽度掉进 2 列，
+          3 格时第 3 格单独一行、旁边露一空格底色。
+     改成 data-cols 之后列数完全确定，且移动端用同权重写成「后出现的规则」稳压。
+     注意 [data-cols] 属性选择器把权重抬到 (0,3,0)，所以媒体查询里必须写同样带
+     [data-cols] 的选择器才盖得住 —— 不能只写 .about .facts。 */
+.about .facts[data-cols="1"]{grid-template-columns:minmax(0,1fr)}
+.about .facts[data-cols="2"]{grid-template-columns:repeat(2,minmax(0,1fr))}
+.about .facts[data-cols="3"]{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:820px){
+	.about .facts[data-cols]{grid-template-columns:minmax(0,1fr)}
+}
+

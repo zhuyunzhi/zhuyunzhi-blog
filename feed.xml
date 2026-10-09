@@ -3,440 +3,1137 @@
     <title>zhuyunzhi</title>
     <link href="https://zhuyunzhi.com/feed.xml" rel="self" />
     <link href="https://zhuyunzhi.com" />
-    <updated>2026-09-30T18:00:11+08:00</updated>
+    <updated>2026-10-08T16:59:08+08:00</updated>
     <author>
         <name>SelimZhu</name>
     </author>
     <id>https://zhuyunzhi.com</id>
 
     <entry>
-        <title>Why Your Quotation Makes Buyers Go Quiet</title>
+        <title>Manufacturer or Trading Company? How to Tell, and Why It Matters</title>
         <author>
             <name>SelimZhu</name>
         </author>
-        <link href="https://zhuyunzhi.com/blog/why-your-quotation-makes-buyers-go-quiet/"/>
-        <id>https://zhuyunzhi.com/blog/why-your-quotation-makes-buyers-go-quiet/</id>
-        <media:content url="https://zhuyunzhi.com/media/posts/13/cover-01-quotation-silence.png" medium="image" />
+        <link href="https://zhuyunzhi.com/blog/manufacturer-or-trading-company-how-to-tell-and-why-it-matters/"/>
+        <id>https://zhuyunzhi.com/blog/manufacturer-or-trading-company-how-to-tell-and-why-it-matters/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/26/cover-11-tell-supplier-type.png" medium="image" />
             <category term="Sourcing &amp; Supply"/>
-            <category term="For manufacturers"/>
+            <category term="For buyers"/>
 
-        <updated>2026-09-30T17:56:22+08:00</updated>
+        <updated>2026-10-08T16:59:08+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://zhuyunzhi.com/media/posts/13/cover-01-quotation-silence.png" alt="" />
-                    Reading this as a buyer? &rarr; Read the other side: How to Read a Chinese Supplier's Quotation You spent two days on it. Material&hellip;
+                        <img src="https://zhuyunzhi.com/media/posts/26/cover-11-tell-supplier-type.png" alt="" />
+                    Reading this as a supplier? → Read the other side: Manufacturer or Trading Company — Should You Hide It? Somewhere in your sourcing process&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://zhuyunzhi.com/media/posts/13/cover-01-quotation-silence.png" class="type:primaryImage" alt="" /></p>
-                <div><p><em><strong>Reading this as a buyer?</strong> &rarr; Read the other side: <a href="/blog/how-to-read-a-chinese-quotation/">How to Read a Chinese Supplier's Quotation</a></em></p>
-
-<p>You spent two days on it. Material cost, labour, overhead, a margin you had already trimmed once. You sent the PDF on Tuesday. It is Friday, and there is nothing in your inbox.</p>
-
-<p>Not a rejection. Not a counter-offer. Silence.</p>
-
-<p>Most factory sales teams read that silence one of two ways: the price was too high, or the buyer found someone cheaper. Both readings are usually wrong. The buyer is sitting with your quotation open in a browser tab, stuck &mdash; not because of the number at the bottom, but because the document did not answer the question they were actually asking.</p>
-
-<p>That question is never <em>how much</em>. It is <em>can I plan around you?</em></p>
-
-<h2>A quotation is a decision document, not a price notice</h2>
-
-<p>The person reading your quote is rarely one person. On the buyer's side there are usually three readers, and they read different parts of the same page.</p>
-
-<p>The <strong>engineer</strong> reads the specification. They are checking whether what you described is what they asked for, and whether anything silently changed.</p>
-
-<p><strong>Procurement</strong> reads the commercial terms. They are comparing you against two or three other suppliers and against their own budget, and they need the shape of the deal to be comparable.</p>
-
-<p><strong>Finance or the owner</strong> reads the risk. Payment terms, currency, validity, what happens if the schedule slips. They are the ones who decide whether this becomes a real order.</p>
-
-<p>A quotation that answers only the engineer's question is a specification sheet with a price attached. It stalls at the second reader.</p>
-
-<p>So the goal of the document is not to state a number. It is to make it possible for three people who will never speak to you to reach the same conclusion: this supplier can be planned around.</p>
-
-<h2>What silence actually means</h2>
-
-<p>Silence after a quote is not one thing. In practice it shows up in three very different shapes:</p>
-
-<p><strong>1. The buyer needs something clarified but has no question to ask.</strong> They cannot ask a question about a blank. If your quote does not say which port, or which payment terms, or which year's certification, there is nothing to reply to. The email that would move things forward does not exist yet.</p>
-
-<p><strong>2. The buyer tried to pass it internally and it did not survive.</strong> The engineer sent it to finance, finance asked about payment terms, nobody had an answer, and it went into the "pending" folder. That folder is where most dead quotations live.</p>
-
-<p><strong>3. The buyer has genuinely decided against it.</strong> This happens, but it is the smallest of the three. And even here, you usually get a polite no &mdash; buyers rarely go silent on a quote they have actually read and rejected.</p>
-
-<p>Notice the pattern. <strong>The two most common reasons are both missing-information problems, not price problems.</strong> They are also the two you can fix without touching the number at the bottom.</p>
-
-<p>There is one useful signal for telling them apart: <strong>did the buyer ask you anything at all?</strong> If they asked follow-up questions before going quiet, they were engaged and something in the answers lost them. If they never asked anything, your quotation did not give them a foothold to ask from.</p>
-
-<h2>Five fields that manufacture doubt</h2>
-
-<p>These are the five things I see most often in quotations that go quiet. None of them is about price. All five are about whether the document can be trusted to mean what it says.</p>
-
-<h3>1. Specifications that could mean several things</h3>
-
-<p>Write down what you consider "standard" and then read it as a stranger. If a line says <em>Q235 steel frame, powder coated</em>, the engineer's next thought is not admiration &mdash; it is a list of questions. Which coating thickness? Which surface preparation standard? Is the frame welded or bolted? Is the coating for indoor or outdoor exposure?</p>
-
-<p>The failure here is not that you left out detail. It is that <strong>you wrote something that sounds specific but is not checkable</strong>. A buyer cannot agree to a specification they cannot verify, and they will not come back to ask about every line &mdash; there are twelve lines and it is Friday afternoon.</p>
-
-<p>The fix is to make each line answerable with a number or a standard reference. Not longer. More exact.</p>
-
-<h3>2. A price with no conditions attached</h3>
-
-<p>A bare number is not a price. It is a starting position, and the buyer knows it.</p>
-
-<p>If the price does not say what it does and does not include, the buyer has to assume the worst &mdash; that everything is extra. Loading, packing for sea freight, documentation, testing, the third-party inspection they will almost certainly ask for. Every unstated item becomes a risk they cannot quantify, and unquantified risk reads as a hidden cost.</p>
-
-<p>The result is a quotation that gets mentally marked up by the buyer, then compared against a competitor who listed their exclusions. On paper you look competitive. In the buyer's spreadsheet you are not.</p>
-
-<h3>3. Delivery premises that are simply missing</h3>
-
-<p>"When can you deliver" is the second question every buyer asks, and it is the one factories answer most loosely.</p>
-
-<p>Fifteen days from what? From order confirmation, from deposit, from drawing approval, from the arrival of a component you have not ordered yet? Each of these is a different date. If you write <em>15 days</em> with no anchor, the buyer has to guess &mdash; and if they guess generously and you miss it, you have broken a promise you never actually made.</p>
-
-<p>Delivery also needs its other half: <strong>what happens if it moves.</strong> A schedule without any statement about what causes delay is a promise the factory has not agreed to.</p>
-
-<h3>4. No validity date, no currency, no payment terms</h3>
-
-<p>These three take one line each and their absence is one of the loudest signals in the document.</p>
-
-<p>A price with no validity period quietly says <em>this number may change at any time, for reasons I will decide later</em>. Buyers price that uncertainty in.</p>
-
-<p>An unstated currency is worse than it sounds. Even when the amount is obviously in your local currency, leaving it out signals that you have not thought about who is paying and from where &mdash; which is usually the first sign of a supplier who has not exported much.</p>
-
-<p>And payment terms are where most cross-border deals are actually won or lost. If you do not state yours, the buyer will not ask you to invent them; they will compare you against a supplier who did.</p>
-
-<h3>5. No note on what changed since the last quote</h3>
-
-<p>This one only appears on repeat quotations, and it costs factories more than they realise.</p>
-
-<p>When you send a revised quote &mdash; after a specification change, a quantity update, a material move &mdash; the buyer's first task is a diff. They will compare line by line, and any number that moved without explanation becomes a question mark.</p>
-
-<p>One line at the top solves it: <em>changes from the previous revision are highlighted</em>. It tells the reader you keep track, which is a small proof of the same thing they are trying to assess in you overall.</p>
-
-<h2>The quotation sheet that gets a reply</h2>
-
-<p>You do not need a new template every time. You need the same fields, present every time, so the reader stops hunting.</p>
-
-<p><strong>Product and specification</strong></p>
-
-<ul>
-  <li>Line item name, matching the buyer's own reference or drawing number where possible</li>
-  <li>Specification with units and standards named, not adjectives</li>
-  <li>Quantity quoted, and the price break for the quantities either side of it</li>
-  <li>What is included in the item price and what is not</li>
-</ul>
-
-<p><strong>Commercial terms</strong></p>
-
-<ul>
-  <li>Unit price, currency stated explicitly</li>
-  <li>Incoterm, named with the location &mdash; not just <em>FOB</em> but <em>FOB Shanghai</em></li>
-  <li>Payment terms, with the deposit percentage and the balance trigger spelled out</li>
-  <li>Validity period, with a date rather than "30 days"</li>
-  <li>Minimum order quantity and what happens below it</li>
-</ul>
-
-<p><strong>Delivery and compliance</strong></p>
-
-<ul>
-  <li>Lead time, anchored to a named event</li>
-  <li>Packing method and whether export packing is included</li>
-  <li>Port or airport of departure</li>
-  <li>Certificates supplied, named specifically</li>
-  <li>Inspection arrangement, and who pays for it</li>
-  <li>A named contact, and the single next step you are proposing</li>
-</ul>
-
-<p>That is around twenty lines. It is not a long document &mdash; it is a document where nothing is left for the reader to assume.</p>
-
-<h2>Three habits that quietly cost you replies</h2>
-
-<p><strong>Quoting faster than you can quote completely.</strong> Speed is genuinely valuable, and buyers notice it. But a fast incomplete quote usually creates a second round of questions, which means the clock resets and you are now slower than the careful supplier. If you must send early, say what is provisional.</p>
-
-<p><strong>Sending everything you know.</strong> The opposite mistake. A quotation padded with capability paragraphs pushes the terms into page three, and the reader who needed the payment terms stops looking. Put the terms where they can be found in one screen, and put the brochure somewhere else.</p>
-
-<p><strong>Ending with "let me know if you have any questions."</strong> This feels polite and it is the weakest possible close. It hands the next move to someone who is busy and has no reason to make one. Always end with a specific, small, easy next step.</p>
-
-<h2>What to do in the first 24 hours after sending</h2>
-
-<p>The quotation is not the end of the work. The 24 hours after sending decide whether it gets read or filed.</p>
-
-<p>Send a short separate email &mdash; three lines, not a repeat of the quote &mdash; that names the one thing you would like confirmed first, and gives a date you will follow up. <em>"I would like to check one thing before you take this further: is the delivery destination a port or an inland site? I will follow up on Thursday either way."</em></p>
-
-<p>That does three things at once. It gives them a trivial question to answer, which restarts the conversation. It shows you are tracking the file rather than waiting on it. And it sets up your next message as something you promised, not something you are chasing.</p>
-
-<p>When Thursday comes, follow up with a reason. Not <em>just checking in</em> &mdash; that is the email buyers delete. Something concrete: a clarification, a photo of a similar job, a note that material pricing moves at the end of the month.</p>
-
-<h2>The one thing to remember</h2>
-
-<p>Buyers do not go quiet because a number is too high. They go quiet when the document they received leaves them with more questions than they have time to ask &mdash; and the easiest way to remove questions is not to write more, but to leave fewer blanks.</p>
-
-<p>If your quote can be read by an engineer, a buyer and a finance person, each finding what they need without emailing anyone, it will get a reply. Not always a yes. But a reply.</p>
-
-<p><em>If you would like a second pair of eyes on how your quotations read to a buyer, that is exactly the kind of thing I write about &mdash; <a href="/work-with-me/">get in touch</a>.</em></p></div>
+                    <p><img src="https://zhuyunzhi.com/media/posts/26/cover-11-tell-supplier-type.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    <p><em><strong>Reading this as a supplier?</strong> → Read the other side: <a href="/blog/manufacturer-or-trading-company-hide-it/">Manufacturer or Trading Company — Should You Hide It?</a></em></p>
+<br>
+<br><p>Somewhere in your sourcing process there is a question you have probably asked at least once, usually in an internal email and never to the supplier's face: <em>is this actually a factory?</em></p>
+<br>
+<br><p>It is a reasonable question. It is also, often, the wrong one. What you need to know is whether you can run this order with this supplier — and that is not the same as establishing what kind of company they are. A capable trading partner can be a better supplier than a weak factory, and a factory that will not tell you the limits of what it makes is worse than either.</p>
+<br>
+<br><p>So this is not a guide to catching anyone out. It is a guide to reading what a supplier publishes, and to knowing when the distinction is worth your attention at all.</p>
+<br>
+<br><h2>First: when it does not matter</h2>
+<br>
+<br><p>Start here, because most of the effort people put into this question is wasted.</p>
+<br>
+<br><p><strong>If you are buying a defined product at a defined specification</strong>, and the price, lead time and inspection terms are all checkable, the number of parties between you and the production line changes very little. What you are buying is delivery against a specification. Verify that instead.</p>
+<br>
+<br><p><strong>If the middle layer is doing real work for you</strong> — consolidating several product lines, holding stock, providing local warranty support, extending you credit terms, handling your customs paperwork — then you are not paying a markup for nothing. You are buying a service you would otherwise have to build yourself. That is a legitimate supply arrangement, and its value is measured in what it saves you, not in whether the person owns a welding machine.</p>
+<br>
+<br><p><strong>If your volumes are small and occasional</strong>, and the item is standard, chasing the identity question will cost you more time than it saves. Spend the same afternoon on their delivery record instead.</p>
+<br>
+<br><p>In all three situations, the honest answer is: it does not matter much, and you should stop worrying about it.</p>
+<br>
+<br><h2>When it does matter</h2>
+<br>
+<br><p>There are four situations where it matters a great deal, and they all share one feature — you are about to depend on something you cannot check afterwards.</p>
+<br>
+<br><p><strong>You need customisation, tooling, or a specification change.</strong> Every technical modification has to be agreed with whoever controls the process. If that person is one step removed, you get a translation layer: your question goes in, an answer comes back, and if the answer is wrong you find out at inspection. This is where a supplier's structure becomes visible whether they want it to or not.</p>
+<br>
+<br><p><strong>You are going to audit, or you need certifications that attach to a specific site.</strong> Audits and site-specific certificates are issued against an address. If the address on the certificate is not the address that will run your order, the document protects someone else's product.</p>
+<br>
+<br><p><strong>You are planning a long-term, high-dependency relationship.</strong> Then capacity, expansion plans and where the critical processes sit are all things you will need to know eventually. Learning them in year three is more expensive than learning them now.</p>
+<br>
+<br><p><strong>The price contains a lot of technical content.</strong> If a good part of what you are paying for is engineering rather than material, you need to understand where that engineering comes from — because that is what you are actually buying, and it is the part that will be hardest to replace.</p>
+<br>
+<br><h2>Six signals you can read from their own materials</h2>
+<br>
+<br><p>Everything below comes from information the supplier has already given you. It requires no investigation, no background checks and no contacting their other customers — and it is enough for a judgement, because you are not trying to prove anything, only to decide how much structure to plan around.</p>
+<br>
+<br><p><strong>1. Who is named on the certificates.</strong> Certificates usually name both the certificate holder and the manufacturing site. On a quality system or product certification, those two names tell you more than any website copy. Check whether the manufacturing address is a site you have seen described anywhere else.</p>
+<br>
+<br><p><strong>2. How specific the process description is.</strong> People who run a process describe it in the vocabulary of that process: the sequence of operations, the equipment, the tolerances, the inspection points, the things that go wrong. Descriptions built from "advanced equipment" and "strict quality control" are marketing language, and marketing language is a signal about who wrote the page, not about capability. It is not proof of anything on its own — many genuine factories write badly — but a technical description is difficult to fake and easy to read.</p>
+<br>
+<br><p><strong>3. Whether the product range is plausible as one operation.</strong> A supplier offering five unrelated categories, each described as their own production, is worth one polite question. It is possible to have several workshops. It is also a common shape for a trading business. Ask how the range is produced and listen to whether the answer is structural or vague.</p>
+<br>
+<br><p><strong>4. Whether their material is internally consistent.</strong> Photos, videos and documents collected over several years should look like the same company: similar buildings, similar equipment, workers in recognisable workwear, packaging done the same way. You are not looking for a contradiction in a single image. You are looking for whether the company has one physical identity or several borrowed ones.</p>
+<br>
+<br><p><strong>5. How granular the quotation is.</strong> Factory quotes tend to break down into process steps: material, fabrication, surface treatment, packing. A single all-in number can indicate a trading layer — though this is a hint, not a test, because a good trader will also quote in detail. Read it alongside everything else.</p>
+<br>
+<br><p><strong>6. Where the answers go.</strong> Ask a narrow technical question — say, how a specific tolerance is measured, or what happens to a component between two process steps. Someone in the operation answers directly; someone in a sales office says they will check. Neither response is dishonest, and you should not treat the second as a failure. But the response tells you what the communication route looks like for the next two years.</p>
+<br>
+<br><h2>You can simply ask, if you ask properly</h2>
+<br>
+<br><p>There is no rule against asking directly. A single clear sentence does it:</p>
+<br>
+<br><p><em>Is the manufacturing done at your own facility, or through a partner?</em></p>
+<br>
+<br><p>That is a normal commercial question, and a professional supplier will not be offended by it. What you get back is itself the information you wanted. A direct answer with a boundary in it — "these lines are ours, this one is a partner's, which is why the lead time is longer" — is the most useful response you can receive. An answer that restates capabilities without answering the question tells you the structure is being managed.</p>
+<br>
+<br><p>The one thing to avoid is turning it into an interrogation. Ask once, plainly, and treat the answer as a fact about how they work rather than a verdict on their character.</p>
+<br>
+<br><h2>The conclusion that surprises people</h2>
+<br>
+<br><p>Trading companies are not worse suppliers than factories. Factories are not automatically safer than trading companies. The distinction you were actually reaching for, when you started asking this question, was never <em>who owns the machine</em>. It was <strong>how predictable is this supplier</strong> — can I estimate the lead time, can I change a specification without losing a week, will the person answering my email be able to act on it.</p>
+<br>
+<br><p>Judged that way, a trading company that is explicit about what it makes, what it sources, and where the extra two weeks come from is a safer partner than a factory that claims to do everything and answers every technical question by forwarding it. One has told you their shape. The other has told you nothing, and you will discover it during your first claim.</p>
+<br>
+<br><p>So read the six signals. Ask the direct question once. And then judge the answer against what you actually need from the next order, rather than against a preference for who owns the building.</p>
+<br>
+<br><p><em>(Written from the supplier side of this conversation — if you want to see the same question from the other chair, read <a href="/blog/manufacturer-or-trading-company-hide-it/">Manufacturer or Trading Company — Should You Hide It?</a>.)</em></p>
+<br>
+<br><p><em>If you want a second pair of eyes on a supplier's materials, that is the kind of thing I write about — <a href="/work-with-me/">get in touch</a>.</em></p>
+  </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Why Your B2B Website Gets Traffic but No Leads</title>
+        <title>Manufacturer or Trading Company — Should You Hide It?</title>
         <author>
             <name>SelimZhu</name>
         </author>
-        <link href="https://zhuyunzhi.com/blog/why-your-b2b-website-gets-traffic-but-no-leads/"/>
-        <id>https://zhuyunzhi.com/blog/why-your-b2b-website-gets-traffic-but-no-leads/</id>
-        <media:content url="https://zhuyunzhi.com/media/posts/9/cover-03-traffic-no-leads.png" medium="image" />
-            <category term="Content &amp; Site"/>
+        <link href="https://zhuyunzhi.com/blog/manufacturer-or-trading-company-should-you-hide-it/"/>
+        <id>https://zhuyunzhi.com/blog/manufacturer-or-trading-company-should-you-hide-it/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/25/cover-10-hide-identity.png" medium="image" />
+            <category term="Sourcing &amp; Supply"/>
+            <category term="For manufacturers"/>
 
-        <updated>2026-09-23T17:52:36+08:00</updated>
+        <updated>2026-10-08T16:58:32+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://zhuyunzhi.com/media/posts/9/cover-03-traffic-no-leads.png" alt="" />
-                    The seven gates between a visitor and an inquiry — and how to test each one in an afternoon. A plant manager in Rotterdam&hellip;
+                        <img src="https://zhuyunzhi.com/media/posts/25/cover-10-hide-identity.png" alt="" />
+                    Reading this as a buyer? → Read the other side: Manufacturer or Trading Company? How to Tell, and Why It Matters A buyer asks&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://zhuyunzhi.com/media/posts/9/cover-03-traffic-no-leads.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://zhuyunzhi.com/media/posts/25/cover-10-hide-identity.png" class="type:primaryImage" alt="" /></p>
                 
-    <blockquote class="blockquote">
-      The seven gates between a visitor and an inquiry — and how to test each one in an afternoon.
-    </blockquote>
-
   <p>
-    A plant manager in Rotterdam searches for the exact product you manufacture. You rank third. The page loads. He stays 47 seconds, scrolls twice, and closes the tab.<br>You will never know his name. He will never tell you why he left.
+    <p><em><strong>Reading this as a buyer?</strong> → Read the other side: <a href="/blog/manufacturer-or-trading-company-how-to-tell/">Manufacturer or Trading Company? How to Tell, and Why It Matters</a></em></p>
+<br>
+<br><p>A buyer asks it one line into the second email, and something tightens: <em>are you a factory or a trading company?</em></p>
+<br>
+<br><p>The honest answer is usually more complicated than the question. You are a factory, but you also buy in one component from a partner. You have your own line, and you also sell a range you do not produce. You are a factory that has grown a trading arm because customers kept asking for things you did not make. So the real question sitting underneath their question is not what you are. It is <strong>what you should say</strong>.</p>
+<br>
+<br><h2>Why the question feels dangerous</h2>
+<br>
+<br><p>It feels like a trap because it looks like a moral test. It is not. When a buyer asks it, they are checking three specific worries, and none of them is about honesty in the abstract.</p>
+<br>
+<br><p><strong>They do not want to pay for a layer they cannot see.</strong> If a middle party is between them and the production floor, they want to know what that layer costs and what it does.</p>
+<br>
+<br><p><strong>They do not want their questions filtered.</strong> A spec change that passes through a third party arrives as an answer rather than a discussion.</p>
+<br>
+<br><p><strong>They want to know who can make a decision.</strong> When a schedule slips or a batch fails inspection, they want to be talking to someone who can move the line, not someone who has to ask.</p>
+<br>
+<br><p>Those three worries are legitimate in every market. Which means the question is not the problem. The problem is how the answer gets managed.</p>
+<br>
+<br><h2>What hiding actually buys you</h2>
+<br>
+<br><p>It would be dishonest to pretend there is no upside. There are situations where saying less is genuinely the better commercial move.</p>
+<br>
+<br><p>If you are quoting a line you do not manufacture, spelling out exactly which parts are yours and which are not can make you look unfocused before the buyer knows anything else about you. If you are small and growing, announcing your size in the first email invites a comparison you will lose — not on quality, but on scale, to buyers who only know how to compare scale. If you are negotiating your first order with a large customer, letting them see the whole structure of your supply chain can feel like handing over your position.</p>
+<br>
+<br><p>So the upside is real. But look at its shape: <strong>it is a one-time gain, collected now, in this conversation.</strong> It buys you a little room at the start. What it costs arrives later, and it compounds.</p>
+<br>
+<br><h2>What hiding costs</h2>
+<br>
+<br><p><strong>It converts "I did not mention it" into "I chose not to mention it."</strong> Buyers almost never discover this by being told. They discover it from the factory address on a certificate, a workshop visible behind someone in a video call, a site visit that does not match the website. And when they find out, the question on the table is no longer <em>are you a manufacturer</em>. It is <em>what else did you leave out</em>. That is the whole cost, and it is paid in a currency you cannot get back: the benefit of the doubt.</p>
+<br>
+<br><p><strong>It removes the most valuable thing you own.</strong> Being a factory carries three things buyers will pay extra for — you can be visited, you can be changed, and your cost structure can be explained. A trading company cannot offer the first two and usually will not offer the third. Blur your identity and you place yourself into a pool where the only remaining comparison is price. In that pool you are competing against traders who buy the same way you do, and against factories larger than you. It is the worst of both positions.</p>
+<br>
+<br><p><strong>It makes your capability boundary vague, and vague always gets priced at the worst reading.</strong> If your materials say you do everything, a buyer will locate you by your weakest visible capability rather than your strongest. A supplier who says "we make A and B to this tolerance, and C we do through a partner" gets handed A and B. A supplier who says yes to everything gets handed whatever the buyer cannot place elsewhere.</p>
+<br>
+<br><p><strong>It cuts off the compounding.</strong> In a long relationship, a buyer needs to know the edges of what you do so they can route the right work to you. Suppliers who refuse to have edges get used for the least accountable part of the job, and never get the part that requires trust.</p>
+<br>
+<br><h2>The distinction that actually matters</h2>
+<br>
+<br><p>Most of the tension here comes from mixing up two different things, and separating them solves most of the problem immediately.</p>
+<br>
+<br><ul>
+<br>  <li><strong>It is fine not to volunteer:</strong> your other customers, your exact capacity numbers, how your internal departments are organised, and who you source non-produced items from. None of that is owed to a new buyer.</li>
+<br>  <li><strong>It is required to answer truthfully when asked.</strong> If they ask whether you make it, the answer is the answer.</li>
+<br>  <li><strong>It is never acceptable to be wrong about:</strong> your capacity, who holds your certifications, your manufacturing address, and which production steps you actually control.</li>
+<br></ul>
+<br>
+<br><p>Here is a test that catches most real problems: <strong>would the buyer still be satisfied if they found this out on the third visit instead of in the first email?</strong> If yes, it is a disclosure decision. If no, it is a misrepresentation, whatever you call it.</p>
+<br>
+<br><h2>A framework, not a verdict</h2>
+<br>
+<br><p>Nobody can tell you which side to land on, because it depends on what you sell, to whom, and how long you intend to sell it. But three questions will usually settle it for you.</p>
+<br>
+<br><p><strong>1. What are you hiding, exactly?</strong> Capability, scale, or supply-chain structure? These are three different decisions. Not mentioning that you are a 60-person workshop is scale. Not mentioning that half the range is bought in is structure. Buyers react very differently to each.</p>
+<br>
+<br><p><strong>2. If they found out today, would the deal end?</strong> If the honest answer is yes, you are betting the transaction on never being discovered — over a relationship that may run for years and will include visits, audits and references. That is a bad bet at almost any odds.</p>
+<br>
+<br><p><strong>3. Did they actually ask?</strong> If the buyer asked directly and got an evasive answer, you are managing their perception against their will. If they never asked, this is not a disclosure problem at all — it is a positioning problem, and it has a better solution.</p>
+<br>
+<br><p>That better solution is usually to <strong>define your range before someone forces you to</strong>. One short paragraph on your website and one line in the quotation can do it: what you make yourself, what you offer through partners, what you do not do at all. It costs you a few enquiries from buyers who wanted a one-stop shop. In exchange, everything that arrives is something you can actually deliver, on terms you set, without ever having to remember which version of yourself you presented.</p>
+<br>
+<br><h2>The one thing to remember</h2>
+<br>
+<br><p>Buyers are not shopping for a factory. They are shopping for a supplier they can predict. A manufacturer who has never explained their own boundaries is not more predictable than a trading company that has — they are less.</p>
+<br>
+<br><p>Say what you are. If part of what you are is inconvenient, say that too, and say what it means for the buyer: a longer lead time, a higher minimum, a component that comes from a partner. Every one of those is a smaller problem than a buyer who has stopped believing your emails.</p>
+<br>
+<br><p><em>If you want a second pair of eyes on how your own capability reads to a buyer, that is exactly what I write about — <a href="/work-with-me/">get in touch</a>.</em></p>
+<br>
+<br><p><em>Read the other side: <a href="/blog/manufacturer-or-trading-company-how-to-tell/">Manufacturer or Trading Company? How to Tell, and Why It Matters</a> — the same question, written for the buyers asking it.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What a Factory Audit Actually Tells You — and What It Doesn&#x27;t</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/what-a-factory-audit-actually-tells-you-and-what-it-doesnt/"/>
+        <id>https://zhuyunzhi.com/blog/what-a-factory-audit-actually-tells-you-and-what-it-doesnt/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/24/cover-06-factory-audit-buyer-side.png" medium="image" />
+            <category term="Sourcing &amp; Supply"/>
+            <category term="For buyers"/>
 
+        <updated>2026-10-08T16:57:46+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/24/cover-06-factory-audit-buyer-side.png" alt="" />
+                    Reading this as a factory? → Read the other side: What a Buyer Is Actually Checking When They Audit Your Factory A factory audit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/24/cover-06-factory-audit-buyer-side.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    Most manufacturers read that as a traffic problem, and the response is always the same: write more articles, post more often, run more ads. But traffic was never the bottleneck. What you had was a decision problem. Somewhere between the search result and your contact form, a buyer was deciding whether you were worth a message — and something in that path told him no.
+    <p><em><strong>Reading this as a factory?</strong> → Read the other side: <a href="/blog/what-a-buyer-checks-when-auditing-your-factory/">What a Buyer Is Actually Checking When They Audit Your Factory</a></em></p>
+<br>
+<br><p>A factory audit feels like the moment a buyer stops guessing. You pay for the visit, you get a report, and the report has findings in it. It is natural to treat the document as an answer.</p>
+<br>
+<br><p>It is not an answer. It is a <em>timestamp</em>.</p>
+<br>
+<br><p>Understanding what an audit can and cannot tell you is the difference between using it as a shortcut and mistaking it for a conclusion. The report is genuinely useful — but only inside a narrow band, and most sourcing failures happen when buyers read it as covering more ground than it does.</p>
+<br>
+<br><h2>What an audit is actually measuring</h2>
+<br>
+<br><p>An audit measures <strong>the state of a factory on the day it was visited</strong>, against a checklist, as observed by a person who was there for a few hours.</p>
+<br>
+<br><p>That definition is deliberately narrow. Inside it, an audit is reliable. It can establish:</p>
+<br>
+<br><ul>
+<br>  <li><strong>That a process exists.</strong> Equipment is present, people are doing work, the product category is plausible.</li>
+<br>  <li><strong>That records are kept.</strong> Whether inspection, maintenance, and calibration documentation exists — and whether it is current or created for the occasion.</li>
+<br>  <li><strong>Whether the paper trail connects.</strong> Whether a finished item can be traced back to its material and its checks.</li>
+<br>  <li><strong>Management structure.</strong> Who reports to whom, and whether quality has any independent authority.</li>
+<br>  <li><strong>Consistency between claim and floor.</strong> Whether what the sales team described matches what a visitor sees.</li>
+<br></ul>
+<br>
+<br><p>Those are real, valuable findings. A factory that fails any of them has told you something important before you have spent a deposit.</p>
+<br>
+<br><h2>What it cannot tell you</h2>
+<br>
+<br><p>Now the harder half, and the one people skip.</p>
+<br>
+<br><h3>It cannot tell you about the future</h3>
+<br>
+<br><p>The report describes a visit. Your order will be produced over months, possibly during a busier period, possibly by a different shift, almost certainly after the auditor has gone home.</p>
+<br>
+<br><p>Nothing in the report predicts the behaviour of the factory six months from now. That is not a flaw in auditing; it is a limit of observing.</p>
+<br>
+<br><h3>It cannot tell you whether quality is stable</h3>
+<br>
+<br><p>A single audit can confirm that the system exists. It cannot tell you the variance — whether the tenth thousand units hold the tolerance of the first hundred.</p>
+<br>
+<br><p>Stability is a trend, and a trend needs more than one data point. If stability matters to you (and it usually matters more than a spec sheet suggests), you will not get it from an audit. You will get it from samples across time, or from customers who have ordered repeatedly.</p>
+<br>
+<br><h3>It cannot tell you about delivery reliability</h3>
+<br>
+<br><p>Delivery performance is the most common real-world failure and the least visible in an audit. Even a thorough capability audit at most records the factory's <em>stated</em> lead times. It does not tell you how often they are met.</p>
+<br>
+<br><p>Ask instead for something harder to fake: how many orders the factory took last year, and how many shipped late. Most factories will not have the number. That absence is your answer.</p>
+<br>
+<br><h3>It cannot tell you about financial health</h3>
+<br>
+<br><p>A factory can look excellent on the floor and be under cash-flow pressure that shows up later as a demand for unusual payment terms, or as a stoppage mid-production. Audits generally do not read balance sheets, and the ones described as "financial audits" are usually about process controls, not solvency.</p>
+<br>
+<br><h3>It cannot tell you who will actually answer you</h3>
+<br>
+<br><p>Responsiveness is a behaviour, not a facility. The person who showed you around may not be the person who answers your email in month three.</p>
+<br>
+<br><h3>And it cannot tell you whether they are good at your product</h3>
+<br>
+<br><p>This one matters particularly. Most audits are performed against a general framework — social compliance, quality management, or a capability checklist — by an auditor who works across many categories. They can tell you the factory is organised. They cannot tell you whether its process is well-suited to your specific tolerances, your materials, or your application.</p>
+<br>
+<br><p>A general audit passing a specialist job is a common and expensive misread.</p>
+<br>
+<br><h2>Different audits answer different questions</h2>
+<br>
+<br><p>"Factory audit" is used for at least three different exercises. Knowing which one you commissioned prevents a lot of false confidence.</p>
+<br>
+<br><p><strong>Social and compliance audits</strong> — programs such as BSCI, or SMETA-style assessments.</p>
+<br>
+<br><ul>
+<br>  <li>Establishes: labour conditions, safety, environmental practices, legality</li>
+<br>  <li>Does not establish: anything about whether they can make your product well</li>
+<br></ul>
+<br>
+<br><p><strong>Quality management audits</strong> — for example, an assessment against ISO 9001.</p>
+<br>
+<br><ul>
+<br>  <li>Establishes: that a documented quality system exists and is being followed</li>
+<br>  <li>Does not establish: that the system produces good output against your specification</li>
+<br></ul>
+<br>
+<br><p><strong>Factory capability and pre-shipment style audits.</strong></p>
+<br>
+<br><ul>
+<br>  <li>Establishes: physical capability, capacity signals, whether the process is present</li>
+<br>  <li>Does not establish: consistency over time, or delivery reliability</li>
+<br></ul>
+<br>
+<br><p>Commissioning a compliance audit and reading it as a capability verdict is one of the more common sourcing errors, and it is entirely avoidable: decide the question you are trying to answer, then choose the audit that answers it.</p>
+<br>
+<br><h2>The video visit problem</h2>
+<br>
+<br><p>Since travel became harder, video walkthroughs have become common. They are worth what they cost — and what they cost is roughly nothing.</p>
+<br>
+<br><p>A video tour shows you what someone has chosen to point a camera at, in an order they control. It can be genuinely useful for a specific purpose: confirming that a factory exists, that a line is running, and that the person you have been emailing is real. Treat it as identity verification, not assessment.</p>
+<br>
+<br><p>If a video visit is your only option, make it interactive and unscripted. Ask them to walk to a specific area without preparation, open a specific cabinet, show you the last inspection record for a current order. The value is in the parts they did not plan.</p>
+<br>
+<br><h2>What to do after the audit</h2>
+<br>
+<br><p>The report closes one question and opens several. Use it as a starting point rather than a verdict.</p>
+<br>
+<br><p><strong>Order a sample, then compare it to production.</strong> The gap between a hand-built sample and a production unit is where most disappointment lives. If you can, get a sample from a real production run rather than from the sample room.</p>
+<br>
+<br><p><strong>Ask for repeat-order evidence.</strong> Which customers have ordered more than once, and over what period? Repeat orders are the only available proxy for all the things an audit cannot measure — stability, reliability, and the absence of unpleasant surprises. Most factories cannot give you names, but many can describe order histories in a way that is specific enough to be credible.</p>
+<br>
+<br><p><strong>Set a small first order with a real acceptance test.</strong> Not just "did it arrive" — a defined check against the specification you actually care about. The first order is a better audit than the audit was.</p>
+<br>
+<br><p><strong>Watch the response to a problem.</strong> Almost every first order has some issue, large or small. How the factory handles the first problem tells you more about the next five years than the report does.</p>
+<br>
+<br><h2>How to read the report you already have</h2>
+<br>
+<br><p>If you are holding one now, read it in three passes:</p>
+<br>
+<br><ol>
+<br>  <li><strong>Findings first.</strong> What did they actually observe? Ignore the score.</li>
+<br>  <li><strong>Then the absences.</strong> What was not covered — which of your real questions does this document never touch?</li>
+<br>  <li><strong>Then the date.</strong> How long ago was this? A report from two years ago describes a factory that may no longer exist in that form.</li>
+<br></ol>
+<br>
+<br><p>An audit is a useful instrument. It is just a narrow one — and the buyers who use it best are the ones who are clear about where its coverage ends.</p>
+<br>
+<br><p><em>I write about cross-border sourcing from inside a Chinese manufacturer — if you would like to compare notes on reading suppliers, <a href="/work-with-me/">get in touch</a>.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What a Buyer Is Actually Checking When They Audit Your Factory</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/what-a-buyer-is-actually-checking-when-they-audit-your-factory/"/>
+        <id>https://zhuyunzhi.com/blog/what-a-buyer-is-actually-checking-when-they-audit-your-factory/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/23/cover-05-factory-audit-factory-side.png" medium="image" />
+            <category term="Sourcing &amp; Supply"/>
+            <category term="For manufacturers"/>
 
+        <updated>2026-10-08T16:56:48+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/23/cover-05-factory-audit-factory-side.png" alt="" />
+                    Reading this as a buyer? → Read the other side: What a Factory Audit Actually Tells You — and What It Doesn't A buyer&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/23/cover-05-factory-audit-factory-side.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    This article is the audit I run on industrial and B2B websites to find out where that decision goes wrong. It is built around seven gates that sit between a visitor and an inquiry. Each gate comes with a test you can run today, the failure I see most often at that gate, and the smallest change that fixes it.
+    <p><em><strong>Reading this as a buyer?</strong> → Read the other side: <a href="/blog/what-a-factory-audit-tells-you/">What a Factory Audit Actually Tells You — and What It Doesn't</a></em></p>
+<br>
+<br><p>A buyer is coming to audit your factory. You already know the obvious parts of the day: they will walk the floor, take photos, ask for certificates, and sit in your meeting room with a checklist.</p>
+<br>
+<br><p>What most factories get wrong is what that checklist is actually for.</p>
+<br>
+<br><p>Buyers rarely audit a factory to assess your machines. Machines are visible, comparable, and easy to describe in a brochure — and they are the part of your operation a buyer can least easily judge from a two-hour visit. What a buyer is really trying to establish is something narrower and much harder: <strong>can the thing you described on paper be expected to happen again, on my order, without me watching.</strong></p>
+<br>
+<br><p>Everything in the audit is a proxy for that one question.</p>
+<br>
+<br><h2>The audit is a consistency test, not a quality test</h2>
+<br>
+<br><p>This is the reframe that changes how you prepare.</p>
+<br>
+<br><p>A buyer cannot measure your quality in an afternoon. They can measure whether the story is internally consistent — whether the workshop matches the specification, whether the documents match the process, whether the person explaining the line can also explain what happens when the line goes wrong.</p>
+<br>
+<br><p>So the audit is comparing three versions of your factory against each other:</p>
+<br>
+<br><ul>
+<br>  <li><strong>The version in your quotation and specification</strong> — what you said you would do</li>
+<br>  <li><strong>The version in your documents and records</strong> — what you say you have done</li>
+<br>  <li><strong>The version on the floor during the visit</strong> — what is actually happening</li>
+<br></ul>
+<br>
+<br><p>If those three agree, the buyer leaves with confidence. If they disagree, the buyer leaves with a question mark, and question marks are what kill deals — not defects.</p>
+<br>
+<br><p>Most failed or "conditional" audits are not caused by bad equipment. They are caused by a factory that could not show, on the day, that the three versions were the same.</p>
+<br>
+<br><h2>What they are actually looking at</h2>
+<br>
+<br><h3>1. Process, not equipment</h3>
+<br>
+<br><p>A buyer walking the line is looking for evidence that the process is <em>defined</em>. Not that it is modern — that it is repeatable.</p>
+<br>
+<br><p>What that looks like on the floor:</p>
+<br>
+<br><ul>
+<br>  <li>Work instructions or drawings visible at the workstation where the work happens</li>
+<br>  <li>In-process inspection points, and someone who can tell you what happens at each one</li>
+<br>  <li>A defined route for a non-conforming part — where does a rejected piece physically go</li>
+<br>  <li>Tooling and jigs that show use, not a workshop that only runs clean when visitors come</li>
+<br></ul>
+<br>
+<br><p>If a workstation has no instruction and no inspection record, the buyer's conclusion is not "this step is simple". It is "this step depends on the person standing there, and that person may not be the one who does my order".</p>
+<br>
+<br><h3>2. Traceability</h3>
+<br>
+<br><p>This is where international buyers differ most from domestic ones, and where unprepared factories get caught.</p>
+<br>
+<br><p>A buyer needs to be able to connect a finished product back to what went into it: which material batch, which inspection, which date. Not for every item — but the capability has to exist.</p>
+<br>
+<br><p>The practical test: pick a finished unit and ask the factory to show the paperwork behind it. A factory with a real system can walk backwards from the serial number to the material certificate. A factory without one will explain, at length, that it is not necessary.</p>
+<br>
+<br><p>It is necessary the moment something goes wrong six months after shipment, and the buyer is standing in front of their own customer.</p>
+<br>
+<br><h3>3. Real capacity</h3>
+<br>
+<br><p>Buyers know that the line they are shown during an audit is not necessarily the line that will run their order. So they probe capacity indirectly:</p>
+<br>
+<br><ul>
+<br>  <li>How many shifts, and which one am I seeing</li>
+<br>  <li>What is currently in production, and for whom (they will not ask for names)</li>
+<br>  <li>Where would my order physically sit in this floor</li>
+<br>  <li>Who are the sub-contractors, if any, and what parts do they handle</li>
+<br></ul>
+<br>
+<br><p>Factories that answer these questions plainly come across as larger than factories that answer carefully. Vagueness about capacity reads as either "we are busier than we said" or "we outsource more than we said" — and a buyer has to assume the less flattering of the two.</p>
+<br>
+<br><h3>4. Who owns quality</h3>
+<br>
+<br><p>The single most revealing question in an audit is some version of: <em>who can stop a shipment?</em></p>
+<br>
+<br><p>In a factory where the person responsible for quality reports to the person responsible for output, the answer is a person who will always find a reason to ship. Buyers are specifically listening for whether quality has independent authority — even if it is one person, and even if that person also does three other jobs.</p>
+<br>
+<br><h3>5. Housekeeping as a free signal</h3>
+<br>
+<br><p>Buyers read the state of the floor as a proxy for management, because it is the one thing visible without asking for anything.</p>
+<br>
+<br><p>That does not mean spotless. It means <strong>organised</strong>: materials identified and stored where they are supposed to be, waste not accumulating in walkways, tools returning to marked places, and a floor plan that someone is actually following. A workshop that is busy and orderly reads better than one that is clean because the visit was scheduled.</p>
+<br>
+<br><h3>6. Record culture</h3>
+<br>
+<br><p>The question underneath every document request is not "do you have certificates". It is "do you keep records when nobody is asking".</p>
+<br>
+<br><p>A factory that can produce maintenance logs, calibration records, and training records on request is showing a habit. A factory that can only produce certificates — the ones issued by someone else — is showing that documentation is something it does for audits.</p>
+<br>
+<br><h2>What this means for how you prepare</h2>
+<br>
+<br><p>The instinct is to prepare a presentation. The better preparation is to make the three versions agree — and that is mostly work done before the visit, not during it.</p>
+<br>
+<br><p>A practical checklist for the week before:</p>
+<br>
+<br><ul>
+<br>  <li><strong>Make your own specification match your floor.</strong> Walk the line against the spec in your last quotation. If the two differ, decide which is true and fix the other.</li>
+<br>  <li><strong>Find one finished unit and trace it backwards.</strong> If you cannot, build the trace before the buyer asks — it is much worse to be seen discovering the gap.</li>
+<br>  <li><strong>Decide who answers the quality question.</strong> It should be someone who can talk about rejects and what happened to them, not someone who will claim there are none.</li>
+<br>  <li><strong>Put the current state of the floor in order.</strong> Not a cleaning campaign — identification, storage, and walkways.</li>
+<br>  <li><strong>Gather the boring records.</strong> Calibration, maintenance, training, in-process inspection. If they do not exist yet, start them now; a system that began last month is still better than no system.</li>
+<br>  <li><strong>Rehearse the awkward answers</strong> — capacity, sub-contractors, which certifications you hold and which you do not. A calm, specific answer to a hard question buys more credibility than a confident answer to an easy one.</li>
+<br></ul>
+<br>
+<br><h2>The part buyers remember</h2>
+<br>
+<br><p>Buyers see a lot of factories, and the ones they remember are not the biggest or the newest. They are the ones where the answers matched the evidence.</p>
+<br>
+<br><p>That is a low bar, and it is surprising how few factories clear it — which is also why clearing it is worth more than a new machine. An auditor who leaves with their three versions of your factory in agreement is not just satisfied. They are able to defend you internally, when someone asks why this supplier and not the other one.</p>
+<br>
+<br><p><em>If you would like a second pair of eyes on how your factory reads to a buyer during an audit, that is exactly the kind of thing I write about — <a href="/work-with-me/">get in touch</a>.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How to Read a Chinese Supplier&#x27;s Quotation</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/how-to-read-a-chinese-suppliers-quotation/"/>
+        <id>https://zhuyunzhi.com/blog/how-to-read-a-chinese-suppliers-quotation/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/22/cover-02-read-a-quotation.png" medium="image" />
+            <category term="Sourcing &amp; Supply"/>
+            <category term="For buyers"/>
 
+        <updated>2026-10-08T16:56:20+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/22/cover-02-read-a-quotation.png" alt="" />
+                    Reading this as a manufacturer? → Read the other side: Why Your Quotation Makes Buyers Go Quiet A quotation from a Chinese supplier often&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/22/cover-02-read-a-quotation.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    None of it requires a rebuild. Most of it is copywriting, three screenshots, and one afternoon with your analytics open.
+    <p><em><strong>Reading this as a manufacturer?</strong> → Read the other side: <a href="/blog/why-your-quotation-makes-buyers-go-quiet/">Why Your Quotation Makes Buyers Go Quiet</a></em></p>
+<br>
+<br><p>A quotation from a Chinese supplier often reads as if it were written for someone who already knew the answer. Three lines of specification, one number, a payment term expressed as a fraction, and a signature. If you mostly buy domestically, the first reaction is suspicion — what are they not telling me?</p>
+<br>
+<br><p>Usually, they are telling you everything they think you need. The gap is not concealment; it is a different idea of what a quotation is for. Export quotations from China tend to be written as <strong>a record of a conversation that has not happened yet</strong> — short, because the remaining details are expected to be settled verbally. Quotations in North America and Europe tend to be written as <strong>standalone documents</strong> — long, because they are meant to be read without anyone present to explain them.</p>
+<br>
+<br><p>Once you know which parts are convention and which parts are genuine choices, a Chinese quotation becomes readable. And the handful of things that are actually worth worrying about start to stand out clearly.</p>
+<br>
+<br><h2>Start with the Incoterm — it moves the number more than anything else</h2>
+<br>
+<br><p>Before you compare two prices, find the three or four letters next to them. Those letters, not the number, decide what you are actually being quoted.</p>
+<br>
+<br><p><strong>EXW</strong> (Ex Works) means the price covers the goods at the factory gate. Loading, inland transport, export clearance, ocean freight, insurance — all of it is yours. A supplier quoting EXW is not being difficult; they may simply not have a freight forwarder relationship they trust.</p>
+<br>
+<br><p><strong>FOB</strong> (Free On Board) means the price includes getting the goods to and loaded onto the vessel, plus export documentation. Everything after the ship leaves is yours.</p>
+<br>
+<br><p><strong>CIF</strong> (Cost, Insurance, Freight) means the price also includes ocean freight and insurance to your destination port. Your responsibility starts at the port of arrival.</p>
+<br>
+<br><p>These are not small differences. On a container of bulky goods, moving from EXW to CIF can change the price by a double-digit percentage — without the supplier changing their margin at all.</p>
+<br>
+<br><p>So when one supplier is 18% cheaper and another is 18% more expensive, check whether they are quoting on the same terms before you draw any conclusion. This single step resolves more confusion than everything else in this article combined.</p>
+<br>
+<br><p><strong>If the term is missing entirely</strong>, ask for it in writing. It is a completely normal question and the answer will be immediate.</p>
+<br>
+<br><h2>The payment terms line, decoded</h2>
+<br>
+<br><p>Chinese export quotations express payment as two fractions. A typical line reads <em>T/T 30% deposit, 70% against B/L copy</em>.</p>
+<br>
+<br><p>The first fraction is what you pay before production begins. The second is what you pay after the goods are on the water, usually once you are shown the bill of lading — the document that proves the goods have shipped.</p>
+<br>
+<br><p>The most common variants you will see:</p>
+<br>
+<br><ul>
+<br>  <li><strong>30/70 with balance against B/L copy</strong> — the standard for most first orders</li>
+<br>  <li><strong>50/50</strong> — common for custom or made-to-order production</li>
+<br>  <li><strong>100% before shipment</strong> — normal for small orders, and reasonable for them</li>
+<br>  <li><strong>L/C at sight</strong> — used for larger orders; adds bank cost to both sides but protects both sides</li>
+<br></ul>
+<br>
+<br><p>Two things are worth understanding here. First, <strong>the deposit percentage is usually a reflection of working capital, not of trust.</strong> A factory buying raw material for your order has to fund it before you pay. Second, <strong>payment terms are the most negotiable line in the document</strong>, and they are easiest to change on a second order, once both sides have a track record.</p>
+<br>
+<br><p>What you should calmly push back on: a request for the full amount before production on a first order of any size. That is not standard, and a supplier who will not discuss it at all is telling you something about how they handle disagreement generally.</p>
+<br>
+<br><h2>Reading the specification</h2>
+<br>
+<br><p>Chinese quotations often list materials and processes rather than describing a finished product. <em>Q235B steel, 60 micron powder coat, galvanised to EN ISO 1461</em> is a specification. <em>High quality durable frame</em> is not — but it appears too, and it is the line to treat as unfinished.</p>
+<br>
+<br><p>The useful test is simple: <strong>can you verify this line yourself, or would you need to ask?</strong> A coating thickness in microns and a named standard are verifiable. "Export standard" is not a specification; it is a promise to decide later.</p>
+<br>
+<br><p>One thing that surprises first-time buyers: specifications often get <em>more</em> precise, not less, after you ask. Asking is expected. Sending a drawing with your own tolerances marked is even better, and it is the single fastest way to get a supplier to quote against your actual requirement instead of a generic one.</p>
+<br>
+<br><h2>Lead time and validity</h2>
+<br>
+<br><p>Two short lines that carry disproportionate weight.</p>
+<br>
+<br><p><strong>Lead time</strong> in a Chinese quotation is usually counted from deposit receipt or from drawing confirmation — not from the date of the email. If the anchor is not stated, ask. The difference between those two anchors is often a week or more, and it matters when you are planning a site installation.</p>
+<br>
+<br><p><strong>Validity</strong> matters because raw material and freight prices move. A quotation with a stated validity period is not a sales tactic; it is an admission that input costs move. A quotation with <em>no</em> validity period at all is the one to be cautious about, because you cannot tell whether the number will still exist in three weeks.</p>
+<br>
+<br><h2>Differences between suppliers that are completely normal</h2>
+<br>
+<br><p>A large share of the variation between quotes has nothing to do with quality. Before you read anything into a gap, rule these out:</p>
+<br>
+<br><ul>
+<br>  <li><strong>Different Incoterms</strong>, as above</li>
+<br>  <li><strong>Different certification tiers</strong> — one supplier quotes with third-party test reports included, another treats them as an extra</li>
+<br>  <li><strong>Different production methods</strong> — a factory with newer equipment can quote lower on some items and higher on others, depending on the process</li>
+<br>  <li><strong>Distance to port</strong> — inland factories carry real inland freight cost that coastal ones do not</li>
+<br>  <li><strong>Order size assumed</strong> — a quote built around one container of a single item will usually beat one built around mixed items</li>
+<br>  <li><strong>Currency and exchange assumptions</strong>, especially where the quote is in USD but costs are in RMB</li>
+<br>  <li><strong>Payment terms</strong> — a supplier asking for a larger deposit can often quote lower on price, because their financing cost is smaller</li>
+<br></ul>
+<br>
+<br><p>None of these is a red flag. All of them are reasons to normalise the numbers before comparing them.</p>
+<br>
+<br><h2>Signals that are worth paying attention to</h2>
+<br>
+<br><p>These are different in kind. Each one is a question waiting to be asked, not a reason to walk away on its own.</p>
+<br>
+<br><ul>
+<br>  <li><strong>A price far below every other quote, with no explanation of how.</strong> Very occasionally this is a genuine efficiency. More often it is a different specification, a different grade of material, or a quote that will be revised once you commit.</li>
+<br>  <li><strong>Refusal to explain what is included in the price.</strong> A supplier who can break the price into material, process and packing tells you they know their own costs. One who cannot, or will not, is a planning risk.</li>
+<br>  <li><strong>A quotation that cannot be traced to a specific factory.</strong> Ask for the production address, not the office address, and ask to see the production line over video if a visit is not possible. A supplier who finds this request strange is worth a second conversation.</li>
+<br>  <li><strong>No mention of inspection or testing.</strong> For a first order, third-party inspection is normal and expected. A supplier who has never heard the question may be new to exporting.</li>
+<br>  <li><strong>Specification that quietly differs from what you asked for.</strong> Compare line by line against your own requirement. A substitution that was not flagged is more informative than the price.</li>
+<br></ul>
+<br>
+<br><p>Notice what is not on this list: a missing brochure, imperfect English, a short document, or a slow reply during a holiday period. Those are common and they correlate with nothing.</p>
+<br>
+<br><h2>A five-step way to compare three quotes</h2>
+<br>
+<br><p>When you have quotes from three suppliers and they are all shaped differently, do this in order:</p>
+<br>
+<br><ol>
+<br>  <li><strong>Normalise the Incoterm.</strong> Convert each quote to the same term — usually FOB — so you are comparing like with like.</li>
+<br>  <li><strong>List the exclusions.</strong> Write down what each quote does <em>not</em> include. This column is often more revealing than the price column.</li>
+<br>  <li><strong>Match the specification.</strong> Put the three specifications side by side and mark every line where they differ in kind, not just in wording.</li>
+<br>  <li><strong>Check the payment terms and lead time anchors</strong> are stated, and by which event.</li>
+<br>  <li><strong>Only then look at the numbers</strong> — and ask the two questions you now have, in writing, to the supplier who looks strongest.</li>
+<br></ol>
+<br>
+<br><p>This process takes under an hour and it changes the decision more often than any further negotiation would.</p>
+<br>
+<br><h2>The point of all of this</h2>
+<br>
+<br><p>A Chinese quotation is not a closed document. It is the first half of a conversation, written in a shorthand that assumes the second half will happen.</p>
+<br>
+<br><p>You do not need to decode it perfectly. You need to know which lines are conventions, which differences are ordinary, and which few signals deserve a direct question. Ask those questions in writing, keep the answers, and you will be comparing suppliers on the things that actually decide whether an order goes well.</p>
+<br>
+<br><p>If you are the one writing the quotation rather than reading it, the same list works in reverse — <a href="/blog/why-your-quotation-makes-buyers-go-quiet/">Why Your Quotation Makes Buyers Go Quiet</a> walks through it from the factory's side.</p>
+<br>
+<br><p><em>I write about cross-border B2B from inside a Chinese manufacturer — <a href="/work-with-me/">get in touch</a> if you would like to compare notes.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Follow-Up Email That Revives a Dead Inquiry</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/the-follow-up-email-that-revives-a-dead-inquiry/"/>
+        <id>https://zhuyunzhi.com/blog/the-follow-up-email-that-revives-a-dead-inquiry/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/21/cover-12-follow-up-email.png" medium="image" />
+            <category term="Notes &amp; Cases"/>
 
-    <h4 id="how-to-use-this">
-      How to use this
-    </h4>
-
+        <updated>2026-10-08T16:55:15+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/21/cover-12-follow-up-email.png" alt="" />
+                    An enquiry arrives on Monday. You reply within the hour, fully, with prices. On Wednesday you send a small clarifying question. Nothing. By Friday&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/21/cover-12-follow-up-email.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    You do not need to fix everything. You need to find the gate that is actually leaking.<br>Run the seven tests in order. The first one that fails is your bottleneck — fix it before you touch anything downstream, because a prettier homepage will not rescue traffic that was never going to buy. If several fail, work outward from the form: the closer a gate is to the inquiry, the cheaper it is to fix and the sooner you see the effect.
+    <p>An enquiry arrives on Monday. You reply within the hour, fully, with prices. On Wednesday you send a small clarifying question. Nothing. By Friday the thread is cold, and you are looking at a blank email compose window, trying to work out what to say.</p>
+<br>
+<br><p>Most people write something like <em>just checking in — let me know if you have any questions.</em> It feels polite. It is also, statistically, one of the least effective sentences in export sales, because it does three unhelpful things at once: it adds no information, it hands the entire next step to someone who is busy, and — read from the other side of the world — it sounds like pressure.</p>
+<br>
+<br><p>A follow-up is not a reminder. It is a small, self-contained reason for the other person to type one line back.</p>
+<br>
+<br><h2>Why most follow-ups fail</h2>
+<br>
+<br><p>Three failure modes account for almost all of them.</p>
+<br>
+<br><p><strong>It asks without giving.</strong> A message that only requests something creates work for the reader. The reader is already behind. Your email joins the list of things that require effort.</p>
+<br>
+<br><p><strong>It contains nothing new.</strong> If your follow-up could have been sent on the day of the original email, the buyer has no reason to read it now. Reactivating a thread means changing something: new information, a new constraint, a new option.</p>
+<br>
+<br><p><strong>It reads as chasing.</strong> "Just following up" and "circling back" carry an unspoken <em>you owe me an answer</em>. Even when that is true, saying it out loud makes the reader's next action feel like an obligation, and obligations get postponed.</p>
+<br>
+<br><p>The fix is not to write a better chasing email. It is to write something that is not a chase at all.</p>
+<br>
+<br><h2>The three parts of a follow-up that works</h2>
+<br>
+<br><p><strong>1. One specific, cheap question.</strong> Not "do you have any questions" — that is an invitation to compose an essay. A question the reader can answer in a line: is the delivery address a port or an inland site? Is the quantity for one site or a programme? Is the finish specified by the client or by you? A cheap question has an obvious answer sitting in their head already.</p>
+<br>
+<br><p><strong>2. Something new.</strong> Anything genuinely new counts — a lead time that moved, the end of a price validity window, a photo of a similar job, a change in a certification or a standard, a component you now hold in stock. The rule is simply: <em>could this paragraph have been written on day one?</em> If yes, it is not new, it is repetition.</p>
+<br>
+<br><p><strong>3. A default action.</strong> State what you are going to do next, and when, unless you hear otherwise. Not as a threat — as a way of letting the reader steer with one word instead of writing a paragraph. <em>"If the destination is a port I will quote on FOB; if it is inland, I will quote to site. I will send the first version on Thursday either way."</em> Now silence has a defined outcome, which makes replying cheap.</p>
+<br>
+<br><p>Notice what has happened to the cost of answering. Instead of "read my email, remember the project, formulate a response", the reader is being asked to confirm one fact, or to say <em>no, wait</em>. That is the whole technique. Everything else is tone.</p>
+<br>
+<br><h2>Send on events, not on a calendar</h2>
+<br>
+<br><p>The most common advice is to follow up on day three, day seven, day fourteen. That is useful for remembering to do it, and slightly wrong about when it will work.</p>
+<br>
+<br><p>Follow-up is effective when <strong>you have something new</strong>, and the calendar does not know when that happens. The coating line got booked out. The shipping rate for that lane moved. A batch of samples came off the line. A standard was updated. Each of those is a real reason to write, and each arrives on its own schedule.</p>
+<br>
+<br><p>So use the calendar only as a reminder to look: <em>is there anything new I can say?</em> If there is, send it. If there is not, waiting is better than padding.</p>
+<br>
+<br><h2>Three emails you can copy</h2>
+<br>
+<br><p>They are meant to be adapted, not sent as they are. Names, products and specifics are placeholders.</p>
+<br>
+<br><p><strong>Day 3–5 — one question</strong></p>
+<br>
+<br><blockquote><p><strong>Subject:</strong> one question on the [product] enquiry Hi [Name], Before I put a full quote together, I want to check one thing: is the delivery destination a port, or an inland site? It changes the packing specification and the freight line, so I would rather get it right the first time than revise it later. A one-line reply is enough — either is fine. [Signature]</p></blockquote>
+<br>
+<br><p><strong>Day 10–14 — new information plus a default action</strong></p>
+<br>
+<br><blockquote><p><strong>Subject:</strong> updated lead time for [product] Hi [Name], Two things have changed since my last email, so I am passing them on rather than asking whether you are still interested. The surface treatment line is now booked until the 20th, which moves a confirmed order from four weeks to five. If your site date is fixed, tell me and I will look at splitting the batch. We also have samples from the last production run in the workshop. I can send two by courier this week if it helps you compare materials. If neither point affects your timeline, say so and I will hold off until you are ready. [Signature]</p></blockquote>
+<br>
+<br><p><strong>Day 30 — close it, politely</strong></p>
+<br>
+<br><blockquote><p><strong>Subject:</strong> closing the file on [product] Hi [Name], I am tidying our enquiry list and this one has been open since March, so I am going to close it and stop sending updates. If the project is still live and the timing was simply wrong, reply with one line and I will reopen it with current pricing. If it has gone elsewhere, no reply is needed. I would rather know it is closed than keep guessing. [Signature]</p></blockquote>
+<br>
+<br><p>That last email frequently produces the highest reply rate of the three. It works because it removes the obligation entirely, and because people are more willing to answer a question when the alternative is losing the option.</p>
+<br>
+<br><h2>Things that quietly undo the effort</h2>
+<br>
+<br><p><strong>Sending three follow-ups in a week.</strong> The second one arrives before the first has been read on a busy desk. Space them, and space them by events.</p>
+<br>
+<br><p><strong>"I assume my last email did not reach you."</strong> It did. Everyone knows it did. The line reads as an accusation dressed as a courtesy.</p>
+<br>
+<br><p><strong>Longer messages each time.</strong> A follow-up should be shorter than the thing it follows. Length signals anxiety, and anxiety is not a reason to reply.</p>
+<br>
+<br><p><strong>Attaching the entire quotation again.</strong> Give the file only when the message contains a reason to open it.</p>
+<br>
+<br><p><strong>Writing to a distribution list.</strong> If there are three people on the thread and none of them is named as the owner, everyone assumes someone else will answer. Pick one name and put it in the first line.</p>
+<br>
+<br><h2>The one thing to remember</h2>
+<br>
+<br><p>A follow-up is not a nudge. It is a new, small, easy decision offered to someone who has many. You are not trying to make them feel behind — you are trying to make replying cheaper than not replying.</p>
+<br>
+<br><p>Which means the real work happens before you write the email: find the one question, or the one piece of news, that makes the message worth opening. If you cannot find either, the honest move is to wait — and to spend that time on the quotations that are still being read. Silence after a quote usually is not about you; <a href="/blog/why-your-quotation-makes-buyers-go-quiet/">why it happens, and what to fix in the document instead</a> is a different problem with a different solution.</p>
+<br>
+<br><p>And if the enquiry never deserved this much attention in the first place, that is worth knowing too — <a href="/blog/three-signals-an-inquiry-is-worth-your-time/">three signals an enquiry is worth your time</a>.</p>
+<br>
+<br><p><em>If you want a second pair of eyes on the emails going out of your own desk, that is exactly what I write about — <a href="/work-with-me/">get in touch</a>.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What a German Buyer Checks Before Contacting You</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/what-a-german-buyer-checks-before-contacting-you/"/>
+        <id>https://zhuyunzhi.com/blog/what-a-german-buyer-checks-before-contacting-you/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/20/cover-07-german-buyer-checks.png" medium="image" />
+            <category term="Notes &amp; Cases"/>
 
+        <updated>2026-10-08T16:54:45+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/20/cover-07-german-buyer-checks.png" alt="" />
+                    Most factories imagine the first contact with a German buyer as an email that arrives out of nowhere. A name, a product, a question&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/20/cover-07-german-buyer-checks.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    Keep a note of what each test tells you. In four weeks you will have something more valuable than a redesign: a list of specific, verified reasons buyers leave.
+    <p>Most factories imagine the first contact with a German buyer as an email that arrives out of nowhere. A name, a product, a question about price, and the relationship has begun.</p>
+<br>
+<br><p>In practice, the email is the <em>last</em> step of a process the buyer has already been running quietly, on their own, using only what is publicly available.</p>
+<br>
+<br><p>German and wider European purchasing is a documented process — buyers are often required to show why they approached a supplier, and to have something to point at when a decision is questioned internally. That means the screening happens before contact, not after, and it happens against sources you cannot control: your website, your company registration, your published certificates, your domain records.</p>
+<br>
+<br><p>The useful part of that is this. <strong>You cannot influence the conversation you never receive — but you can make the screening come out in your favour, and it is a finite list.</strong> Here is what gets checked.</p>
+<br>
+<br><h2>1. Whether you are a real, verifiable business</h2>
+<br>
+<br><p>The first pass is verification. The buyer is establishing that the company has a legal identity, a physical location, and a history — not because they expect fraud, but because the alternative is a supplier who disappears after payment.</p>
+<br>
+<br><p>What they are looking at:</p>
+<br>
+<br><ul>
+<br>  <li>A company name that matches what appears in business registrations, with the legal form and registration details available</li>
+<br>  <li>A real address — not a virtual office, and ideally one that appears consistent across your website, your invoices, and any directory listing</li>
+<br>  <li>Evidence of time in business: founding year, scale, facilities, the kind of thing that can be independently confirmed rather than only asserted</li>
+<br></ul>
+<br>
+<br><p>A buyer who cannot verify the company will usually not email to ask. They will simply stop. This is the single most common reason a good factory never hears from a serious buyer.</p>
+<br>
+<br><h2>2. Whether you comply with the rules that apply to your website</h2>
+<br>
+<br><p>This surprises many exporters, and it is where European buyers differ most from buyers elsewhere.</p>
+<br>
+<br><p>German law requires commercial websites to publish an <strong>Impressum</strong> — a legal disclosure showing the operator's identity and contact details. European data protection rules apply to any site collecting visitor data, which means a <strong>privacy policy and a cookie notice</strong> are not optional extras but baseline expectations. And if you collect enquiries through a form, how that data is stored and used is part of the same question.</p>
+<br>
+<br><p>You do not need to be an expert to clear this bar. You do need:</p>
+<br>
+<br><ul>
+<br>  <li>An Impressum-style page or section with your legal name, address, and a way to contact a responsible person</li>
+<br>  <li>A privacy policy that says what happens to submitted data</li>
+<br>  <li>A cookie or consent notice if your site uses tracking</li>
+<br></ul>
+<br>
+<br><p>Fair or not, a European buyer who finds a website with none of this reads it as a company that has not done this before — and applies that same conclusion to your export paperwork.</p>
+<br>
+<br><h2>3. Whether the product is compliant and documented</h2>
+<br>
+<br><p>If your product category falls under European rules, the compliance question is asked before the commercial one.</p>
+<br>
+<br><p>Depending on your product, this can include a <strong>CE</strong> marking under the applicable EU directive or regulation, <strong>REACH</strong> obligations for chemical substances, <strong>RoHS</strong> restrictions in electrical and electronic equipment, and, for some categories, extended producer responsibility or waste regulations in the destination country.</p>
+<br>
+<br><p>Two details matter more than the list:</p>
+<br>
+<br><ul>
+<br>  <li><strong>Documents, not claims.</strong> A buyer needs the declaration of conformity, the technical file, the test reports. A line on your website saying "CE certified" without the paperwork behind it does nothing.</li>
+<br>  <li><strong>Scope.</strong> "CE" is not a single thing — it depends on which directive applies to your product. A buyer who knows this will check whether your documentation actually covers their product, not just your category. Being clear and specific here is a competitive advantage, because so many suppliers are vague.</li>
+<br></ul>
+<br>
+<br><h2>4. Whether your technical information is enough to write a real email</h2>
+<br>
+<br><p>Now the practical question: can this buyer write a <em>specific</em> enquiry, or would they have to ask five basic questions first?</p>
+<br>
+<br><p>A European buyer preparing an internal request needs something to write down. If your website presents the product only as a category — "steel structures, high quality, competitive prices" — there is nothing for them to bring to a colleague.</p>
+<br>
+<br><p>What makes an enquiry possible:</p>
+<br>
+<br><ul>
+<br>  <li>Specifications with units and standards named</li>
+<br>  <li>Product variants, and what differs between them</li>
+<br>  <li>Order range: minimum quantities, typical volumes</li>
+<br>  <li>Lead times with a named starting point</li>
+<br>  <li>Technical documents available in English, at least at summary level</li>
+<br></ul>
+<br>
+<br><p>The goal is not to answer everything. It is to give the buyer enough that their first email can be about <em>their</em> requirement rather than about yours.</p>
+<br>
+<br><h2>5. Whether there is a person, and a next step</h2>
+<br>
+<br><p>The last check is small and often skipped: is there a named contact, and is there an obvious next action?</p>
+<br>
+<br><p>An info@ address with no name, no role, and no indication of who handles export enquiries gives the buyer nothing to address. A named contact — even a role-based one, such as an export manager — converts a corporate website into a correspondent.</p>
+<br>
+<br><p>Equally, the page should propose a step. "Contact us" is not a step. "Send us your drawing and we will confirm feasibility within two working days" is.</p>
+<br>
+<br><h2>Why this is not as harsh as it sounds</h2>
+<br>
+<br><p>None of these checks are about you being large, modern, or famous. A small factory that publishes an accurate address, a real contact, honest specifications, and the compliance documents it actually holds will pass every one of them.</p>
+<br>
+<br><p>What fails is not scale. It is <strong>absence</strong> — the missing Impressum, the missing specification, the missing name, the certificate that is claimed but not shown.</p>
+<br>
+<br><p>That is the encouraging part. Every item on this list is a task you can finish this month, and none of it requires a budget.</p>
+<br>
+<br><h2>A checklist you can work through</h2>
+<br>
+<br><ul>
+<br>  <li>Legal name, address, and registration details published and consistent across your site and documents</li>
+<br>  <li>An Impressum-style disclosure page, plus a privacy policy and cookie notice if your site uses tracking</li>
+<br>  <li>Compliance documents you actually hold — declarations of conformity, test reports — available in English, with scope made clear</li>
+<br>  <li>Product pages that name specifications, variants, order range, and lead times with real anchors</li>
+<br>  <li>A named export contact, with an expected response time</li>
+<br>  <li>One clear proposed next step on every product page</li>
+<br></ul>
+<br>
+<br><p><em>The same discipline shows up later, when a buyer visits — see what they check during a factory audit in <a href="/blog/what-a-buyer-checks-when-auditing-your-factory/">What a Buyer Is Actually Checking When They Audit Your Factory</a>. If you would like to compare notes on how a site reads to a European buyer, <a href="/work-with-me/">get in touch</a>.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Three Signals an Inquiry Is Worth Your Time</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/three-signals-an-inquiry-is-worth-your-time/"/>
+        <id>https://zhuyunzhi.com/blog/three-signals-an-inquiry-is-worth-your-time/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/19/cover-03-inquiry-signals.png" medium="image" />
+            <category term="Notes &amp; Cases"/>
 
-    <h4 id="gate-1-traffic-quality-is-the-right-person-arriving">
-      Gate 1 — Traffic quality: is the right person arriving?
-    </h4>
-
+        <updated>2026-10-08T16:54:13+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/19/cover-03-inquiry-signals.png" alt="" />
+                    Earlier this month I went back through one week's worth of inquiries — eleven of them, arriving over five days — and traced where&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/19/cover-03-inquiry-signals.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    Sessions are not buyers. A site can triple its traffic and produce fewer inquiries, because the new sessions are students, competitors, job seekers, and buyers in countries you do not ship to.
+    <p>Earlier this month I went back through one week's worth of inquiries — eleven of them, arriving over five days — and traced where each one ended up three months later. Two became real conversations. One became a sample order. The other eight went nowhere, and reading them again, I could see it in the first four lines.</p>
+<br>
+<br><p>That is not hindsight being clever. It is that most low-value inquiries announce themselves immediately, and most sales teams spend equal time on all of them anyway. Since there is no way to answer eleven properly in one afternoon, the useful skill is not persuasion. It is triage.</p>
+<br>
+<br><p>Here is what separated the three that went somewhere from the eight that did not.</p>
+<br>
+<br><h2>Signal one: they said what it is for</h2>
+<br>
+<br><p>The eight that died all asked some version of the same question: <em>please send your catalogue and best price</em>. Nothing about the buyer, nothing about the application.</p>
+<br>
+<br><p>The three that survived all mentioned a specific use. One was specifying for a project with a fixed completion date. One was replacing an existing supplier after a quality problem and said so plainly. One was comparing options for a product line they were still designing.</p>
+<br>
+<br><p>That distinction matters because it changes what you send. A price list costs you nothing and gets read by nobody. A reply built around <em>you are replacing a supplier mid-project, here is what usually goes wrong in that handover</em> gets an answer, because it is about them.</p>
+<br>
+<br><p><strong>If an inquiry does not say what the product is for, the first reply should be a question, not a price.</strong></p>
+<br>
+<br><h2>Signal two: there was a number and a date in it</h2>
+<br>
+<br><p>Vague on purpose is vague about everything. The inquiries that went nowhere avoided quantities — <em>we are interested in your products for the European market</em> — and avoided timeframes entirely.</p>
+<br>
+<br><p>The three that worked contained both, even roughly. <em>Around 2,000 units for a spring rollout.</em> <em>One container to start, we would look at more if the first shipment is clean.</em> Rough numbers are fine. Rough numbers mean somebody has actually been thinking about this.</p>
+<br>
+<br><p>A number and a date tell you three things at once: there is a real requirement, there is a decision somewhere in the future you can plan around, and the person writing is close enough to the project to know both. Buyers who are only exploring do not have those numbers, because they have not needed them yet.</p>
+<br>
+<br><h2>Signal three: they told you who they are</h2>
+<br>
+<br><p>Not the company name so much as the position. <em>I am the purchasing manager</em> and <em>I handle sourcing for our production team</em> are different sentences from a question that arrives with no signature at all.</p>
+<br>
+<br><p>The three that went somewhere all gave me enough to know how to talk to them. That sounds trivial and it is not. It changes whether the reply talks about certification and lead times or about total cost over a season. It also predicts the single most useful thing: <strong>will this person be able to answer a technical question without disappearing for a week?</strong></p>
+<br>
+<br><p>A buyer who will not say what their role is will usually not be able to move anything internally either.</p>
+<br>
+<br><h2>The three-line card</h2>
+<br>
+<br><p>If you want something you can apply in thirty seconds, it is this. For each inquiry, note three things:</p>
+<br>
+<br><ul>
+<br>  <li><strong>Application</strong> — do they say what the product is for?</li>
+<br>  <li><strong>Numbers</strong> — is there a quantity and a date, even approximate?</li>
+<br>  <li><strong>Role</strong> — can you tell who you are replying to?</li>
+<br></ul>
+<br>
+<br><p>Three out of three, reply first and reply properly. Two, reply today. One, reply with a short question and see whether anything comes back. Zero, send the catalogue and move on.</p>
+<br>
+<br><p>The point is not to judge the buyer. Plenty of good customers write terrible first emails, and a terse inquiry from a serious engineer is worth more than a beautifully written one from a student doing a project. The point is that you cannot tell the difference without asking, and asking costs a sentence.</p>
+<br>
+<br><p><strong>Triage is not rejection. It is deciding which four of eleven deserve a properly written reply on the same afternoon.</strong></p>
+<br>
+<br><p>If an inquiry does clear the bar, the next question is what a good reply actually looks like — that is the subject of <a href="/blog/why-your-quotation-makes-buyers-go-quiet/">Why Your Quotation Makes Buyers Go Quiet</a>.</p>
+<br>
+<br><p><em>I write about cross-border B2B from inside a Chinese manufacturer — <a href="/work-with-me/">get in touch</a> if you would like to compare notes.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Distributor, an Agent, or Direct?</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/a-distributor-an-agent-or-direct/"/>
+        <id>https://zhuyunzhi.com/blog/a-distributor-an-agent-or-direct/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/18/cover-13-channel-choice.png" medium="image" />
+            <category term="Market Entry"/>
 
+        <updated>2026-10-08T16:53:27+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/18/cover-13-channel-choice.png" alt="" />
+                    Once a market is chosen, the next question arrives almost immediately: how do we sell into it? And it usually gets answered by accident&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/18/cover-13-channel-choice.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    The test. In your analytics, open the landing-page report and look at your top twenty pages by sessions. For each one, ask two questions: how many inquiries did this page produce, and where did those sessions come from?
+    <p>Once a market is chosen, the next question arrives almost immediately: <em>how do we sell into it?</em> And it usually gets answered by accident — someone answers an email from a company that calls itself a distributor, a contract gets signed, and the channel decision is made without ever being made.</p>
+<br>
+<br><p>That is worth slowing down, because this choice is not really about who sells. It is about <strong>how much of the work and the risk you are agreeing to carry</strong>, and about which information you will and will not have access to for the next several years.</p>
+<br>
+<br><h2>The three arrangements, defined by what each party carries</h2>
+<br>
+<br><p>The words are used loosely in practice, so it is worth fixing what they mean.</p>
+<br>
+<br><p><strong>Direct.</strong> You sell to the end user — the contractor, the project owner, the factory that will install your product. You find them, you quote them, you serve them.</p>
+<br>
+<br><p><strong>Agent.</strong> A person or company introduces you and helps you close, in your name, for a commission. They normally do not buy the goods, do not hold stock, and do not carry the credit risk.</p>
+<br>
+<br><p><strong>Distributor.</strong> They buy from you and resell at their own price. They hold inventory, they invoice their own customers, they handle returns, and they carry the loss if the stock does not move.</p>
+<br>
+<br><p>The differences between these three show up in six places. Go through them one at a time, and the right answer for your situation usually becomes obvious.</p>
+<br>
+<br><h2>Who pays, and when</h2>
+<br>
+<br><p>With a distributor, you are paid for the goods — usually on their terms, which means an invoice and a credit period rather than cash in advance. You have converted a stock risk into a receivables risk. That is often a good trade, but it is a trade.</p>
+<br>
+<br><p>With an agent, nothing about payment changes. You still invoice the end buyer directly, which also means you still carry the collection risk on a customer you may never meet.</p>
+<br>
+<br><p>With direct sales, payment terms are whatever you negotiate with each customer, and collection is entirely your problem — in a country whose commercial customs you may be learning as you go.</p>
+<br>
+<br><h2>Who carries the inventory risk</h2>
+<br>
+<br><p>A distributor carries it, and that is the main thing you are paying for when you give them a margin. It is also why they will push back on minimum order quantities, slow-moving items and long lead times: those are their money sitting on a shelf.</p>
+<br>
+<br><p>An agent carries none of it. You do.</p>
+<br>
+<br><p>In direct sales you carry all of it, including spare parts and service stock — a cost that is easy to forget when you are modelling the margin on the goods alone.</p>
+<br>
+<br><h2>Who sets the price</h2>
+<br>
+<br><p>A distributor insists on setting the resale price in their market, and will ask for an area of exclusivity to protect it. Both requests are reasonable, and both cost you something: once they own the price, they own the positioning.</p>
+<br>
+<br><p>An agent influences price but does not control it. Direct sales leave pricing entirely with you, which is why direct margins look best on paper — and why the sales cycle is longest.</p>
+<br>
+<br><h2>Who serves the end customer</h2>
+<br>
+<br><p>This is the dimension most manufacturers underestimate, and it decides more channel questions than price does.</p>
+<br>
+<br><p>If your product needs installation supervision, commissioning, warranty response, spare parts or technical support, someone has to provide it in the customer's time zone and language. A distributor who has the capability is worth a substantial margin — they are doing something you would otherwise have to build. An agent who does not have it will leave you doing it yourself, from a different continent, for a customer you are not invoicing.</p>
+<br>
+<br><p>If your product genuinely needs no support — a component that slots into someone else's assembly, a consumable — then this dimension disappears, and channel choice becomes mostly a question of reach and payment.</p>
+<br>
+<br><h2>What you will and will not learn</h2>
+<br>
+<br><p>Direct sales give you first-hand information: what buyers actually ask, what they reject, what your competitors are doing, what the objections are. This is an asset that compounds, and no report replaces it.</p>
+<br>
+<br><p>Agents filter. Some filter well and tell you what matters; some filter badly and tell you what protects their commission. Either way, you are reading a summary.</p>
+<br>
+<br><p>Distributors are often the most closed of all, and understandably so — their customer list is their value. If your market strategy depends on understanding demand at the end-user level, be aware that this route may never give it to you.</p>
+<br>
+<br><h2>The cost of leaving</h2>
+<br>
+<br><p>An agent can usually be replaced, with some awkwardness. A direct customer base is yours, though it took years to build.</p>
+<br>
+<br><p>A distributor relationship is the one with real exit costs. Exclusivity clauses, inventory buy-back expectations, outstanding receivables and territory definitions all make changing your mind expensive. Which is why the time to think about the exit is before the contract, not after the first disappointing year.</p>
+<br>
+<br><h2>Four questions that settle it</h2>
+<br>
+<br><p><strong>Does the product need local service?</strong> If yes, you need either a capable distributor or your own presence. An agent alone will not work.</p>
+<br>
+<br><p><strong>Can your cash flow fund a long cycle?</strong> Direct sales and agent sales both mean you are financing inventory while you wait to be paid. If that is not possible yet, a distributor buying on terms — even at a lower net price — may be the only structure you can actually operate.</p>
+<br>
+<br><p><strong>Do you need first-hand market knowledge?</strong> If your next product or your next market depends on understanding demand, you need some direct contact. Purely indirect channels will leave you guessing.</p>
+<br>
+<br><p><strong>Does the brand matter to the end user?</strong> If it does, be careful with area exclusivity that lets a partner represent you in a way you would not. If it does not, exclusivity is cheap to give away and buys real commitment.</p>
+<br>
+<br><h2>Exclusivity is a price, not a gift</h2>
+<br>
+<br><p>Exclusivity is valuable to a distributor and costs you future options, so trade it rather than grant it. Ask for something concrete in return: a minimum annual purchase volume, a marketing or stock commitment, an agreement not to carry a directly competing line, a defined review point after twelve months.</p>
+<br>
+<br><p>If a partner will not commit to a number but wants the territory, that is information. Practically every commercial dispute in this area starts with exclusivity granted on the strength of an optimistic conversation.</p>
+<br>
+<br><h2>Mixing the three</h2>
+<br>
+<br><p>There is no rule that says you must pick one. A workable pattern for many manufacturers is direct sales for large projects and engineered work, and a distributor for standard items and repeat business. What you must avoid is letting an agent and a distributor pursue the same customer in the same territory — word gets back, and both will feel entitled to compensation.</p>
+<br>
+<br><p>Draw the lines by product and by customer type, write them down, and give each partner a copy.</p>
+<br>
+<br><h2>The one thing to remember</h2>
+<br>
+<br><p>Choosing between a distributor, an agent and direct sales is not a decision about sales coverage. It is a decision about who pays for the stock, who chases the money, who answers the customer at eleven at night, and who learns what the market actually wants.</p>
+<br>
+<br><p>Pick the arrangement whose costs you can carry and whose information you can live without. Everything else in the channel discussion is a detail.</p>
+<br>
+<br><p><em>If you are working out which arrangement fits a market you are entering, that is the kind of question I write about — <a href="/work-with-me/">get in touch</a>.</em></p>
+<br>
+<br><p><em>Earlier in this sequence: <a href="/blog/how-to-pick-your-first-export-market/">How to Pick Your First Export Market Without a Research Budget</a> — choosing where to go before choosing how to sell there.</em></p>
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Why &quot;Everyone Is Going to the US&quot; Is Not a Strategy</title>
+        <author>
+            <name>SelimZhu</name>
+        </author>
+        <link href="https://zhuyunzhi.com/blog/why-everyone-is-going-to-the-us-is-not-a-strategy/"/>
+        <id>https://zhuyunzhi.com/blog/why-everyone-is-going-to-the-us-is-not-a-strategy/</id>
+        <media:content url="https://zhuyunzhi.com/media/posts/17/cover-09-going-to-the-us.png" medium="image" />
+            <category term="Market Entry"/>
 
+        <updated>2026-10-08T16:52:47+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://zhuyunzhi.com/media/posts/17/cover-09-going-to-the-us.png" alt="" />
+                    There is a sentence that gets said in almost every export meeting, and it is rarely examined: we should be doing the US. Ask&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhuyunzhi.com/media/posts/17/cover-09-going-to-the-us.png" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    Three patterns are worth flagging straight away:
-  </p>
-
-  <ul>
-    <li><b>Pages with traffic and zero inquiries over 90 days.</b> These are usually informational pages — "what is a sandwich panel", "how does cold storage work". Useful for credibility, useless for conversion.</li><li><b>A country split that does not match your markets.</b> If most sessions come from places you cannot serve, your headline number is decorative.</li><li><b>Sessions from your own country and your own industry.</b> Some of that is competitors; some is your own team. Neither will send a purchase order.</li>
-  </ul>
-
-  <p>
-    <b>What usually fails. </b>Manufacturers optimize for the keyword they can rank for, not the query a buyer would type. The result is a library of educational content competing for curiosity traffic.
-  </p>
-
-  <p>
-    <b>The fix. </b>Separate the two jobs. Keep informational articles for authority and internal linking, but stop judging them on leads. Then build the pages that only a buyer would land on — product pages, application pages, comparison pages, and pages about shipping, certification, and minimum order quantities. That is where inquiries come from.
-  </p>
-
-    <h4 id="gate-2-the-three-second-relevance-test">
-      Gate 2 — The three-second relevance test
-    </h4>
-
-    <blockquote class="blockquote">
-      A visitor decides in about three seconds whether this is the company he was looking for. Not whether you are good — whether you are relevant.
-    </blockquote>
-
-  <p>
-    The test. Open your homepage on a phone and hand it to someone who does not know your company. A colleague from another department, a friend in another industry, ideally someone from your target market. Three seconds. Take the phone back. Ask: what does this company sell, and who is it for?
-  </p>
-
-  <p>
-    If they hesitate, the page has failed. If they answer with your industry but not your product, it has half-failed.
-  </p>
-
-  <p>
-    <b>What usually fails.</b> The first screen is filled with things that matter to you and nothing that matters to a stranger: the year you were founded, factory area in square metres, a rotating carousel of stock photos, and a slogan like "quality first, customer foremost". Every one of these is a reason to keep scrolling — and most visitors will not.
-  </p>
-
-  <p>
-    <b>The fix. </b>Rewrite the first screen so that, top to bottom, it answers four questions in plain language:
-  </p>
-
-  <ol>
-    <li>&nbsp;What you make — described in the words of your buyer's problem, not your catalogue's words</li><li>Who it is for — the industries or use cases you serve best</li><li>Where you are, and whether you export and to which regions</li><li>One photograph that shows the product doing a job in the real world</li>
-  </ol>
-
-  <p>
-    That is the entire brief. No mission statement, no history, no carousel.
-  </p>
-
-    <h4 id="gate-3-proof-does-anything-back-up-the-claim">
-      Gate 3 — Proof: does anything back up the claim?
-    </h4>
-
-  <p>
-    Overseas buyers are cautious for good reason. Sending money to an unfamiliar supplier across a border carries real risk, and a buyer who has been burned once will not risk it twice. If your site gives him nothing to verify, he will not ask questions — he will leave quietly.
-  </p>
-
-  <p>
-    <b>The test.</b> Imagine you are a buyer in Germany who has never heard of you. Using only your website as a starting point, answer these five:
-  </p>
-
-  <ul>
-    <li>Can I confirm this company legally exists, and does that name match the domain and the bank account?</li><li>Is there evidence of real production, or only stock imagery?</li><li>Can I see reference projects — country, industry, year — even if customer names are confidential?</li><li>Which certifications apply to my market, and are they current?</li><li>Is there a named person with a face and a role I can address?</li>
-  </ul>
-
-  <p>
-    <b>What usually fails. </b>Generic certification logos with no certificates behind them. Project galleries with no context. A contact page that leads to a free mailbox with no name attached. And the small detail that kills confidence fastest: a business email address that does not match your domain.
-  </p>
-
-  <p>
-    <b>The fix. </b>Build one verification block — a section that exists only to be checked, not to sell. Company legal name, registration number, factory address on a map, certifications with issuing body and validity, three reference projects with country and year, and a photograph of the person who will answer your email. Put it on your homepage and link it from every product page. It does more work than any paragraph of marketing copy.
-  </p>
-
-    <h4 id="gate-4-specificity-can-a-stranger-work-out-whether-you-fit">
-      Gate 4 — Specificity: can a stranger work out whether you fit?
-    </h4>
-
-  <p>
-    Specifications are not a detail; they are the buying decision. A buyer cannot judge whether you are suitable — or whether you are affordable — without them.
-  </p>
-
-  <p>
-    <b>The test. </b>Take your three best-selling products. For each, can a stranger answer these without emailing you?
-  </p>
-
-  <ul>
-    <li>What it is, including the dimensions or performance range</li><li>What options exist, and which are standard versus custom</li><li>Minimum order quantity</li><li>Lead time from confirmed order to loading</li><li>What drives the price — material grade, volume, finish, packaging</li><li>Packing, port of loading, and payment terms</li>
-  </ul>
-
-  <p>
-    <b>What usually fails.</b> A product page with a name, four stock photos, and a "contact us for details" button. Forcing a buyer to email before he can learn the basics does not generate leads; it filters out the ones with options.
-  </p>
-
-  <p>
-    <b>The fix. </b>Publish a specification table on every product page, and add three short paragraphs underneath: how to order, how long it takes, and what changes the price. Ranges are fine — "typically 25 to 35 days depending on finish" is infinitely more useful than silence. If you cannot publish prices, publish the drivers of the price.
-  </p>
-
-    <h4 id="gate-5-the-next-step-what-exactly-should-he-do">
-      Gate 5 — The next step: what exactly should he do?
-    </h4>
-
-  <p>
-    Many sites have exactly one call to action, somewhere at the bottom: Contact us. That presents every visitor with the same commitment — start a sales conversation — whether he is ready for one or not.
-  </p>
-
-  <p>
-    The test. List every action a visitor can take on your site, other than leaving. If the list has fewer than three items, you have a commitment problem.
-  </p>
-
-  <p>
-    What usually fails. A single form, plus a phone number that only works in your time zone. Nothing for the buyer who is three months early, nothing for the one who wants to compare you with two competitors, and nothing for the engineer who just wants a drawing.
-  </p>
-
-  <p>
-    <b>The fix.</b> Build a ladder of steps, from smallest to largest:
-  </p>
-
-  <ul id="-download-a-specification-sheet-or-technical-drawing-no-form-no-gatelessbrgreater-request-a-sample-a-quote-or-a-drawing-in-your-formatlessbrgreater-talk-to-a-person-a-short-form-or-a-booking-linklessbrgreater-verify-the-proof-block-from-gate-3">
-    <li>Download a specification sheet or technical drawing — no form, no gate</li><li>Request a sample, a quote, or a drawing in your format</li><li>Talk to a person — a short form or a booking link</li><li>Verify — the proof block from Gate 3</li>
-  </ul>
-
-  <p>
-    Place the small steps inside content, and the larger ones at the end of it. A buyer who starts by downloading a drawing is already in your pipeline, and you did not have to ask him for anything.
-  </p>
-
-    <h4 id="gate-6-form-friction-how-much-work-did-you-ask-for">
-      Gate 6 — Form friction: how much work did you ask for?
-    </h4>
-
-  <p>
-    The form is where interested visitors become leads — or stop being either.<br>The test. Open your own contact form on a phone and fill it in, timing yourself. Then check three things: where the message goes, whether a confirmation page exists, and whether your analytics records a submission as a conversion.
-  </p>
-
-    <h4 id="what-usually-fails">
-      What usually fails.
-    </h4>
-
-  <ul>
-    <li>Too many required fields. Address, phone, and company size are questions for the second email, not the first.</li><li>No stated response time. "We will reply within one business day" measurably reduces abandonment.</li><li>A destination nobody monitors. Contact-form messages routed to a shared inbox frequently become spam, or simply get buried.</li><li>No thank-you page. Without it, you cannot measure conversions at all — and you will spend the next year guessing.</li><li>No test submissions. A surprising number of forms break silently after a plugin update or a hosting change.</li>
-  </ul>
-
-  <p>
-    <b>The fix. </b>Four fields: name, email, country, and what you need. Add one sentence promising a reply window. Send submissions to a specific person and a backup address. Redirect to a thank-you page after submit. Then put a recurring reminder in your calendar to send a test submission once a month — it takes two minutes and it catches everything.
-  </p>
-
-    <h4 id="gate-7-response-time-the-one-you-control-completely">
-      Gate 7 — Response time: the one you control completely
-    </h4>
-
-  <p>
-    This gate has nothing to do with your website, and it is often the one losing the most business.
-  </p>
-
-  <p>
-    <b>The test. </b>Look at your last twenty inquiries and record the time between the message arriving and your first reply. Not the reply with prices — just the first human response.
-  </p>
-
-  <p>
-    <b>What usually fails. </b>Replies go out in two to five days. Meanwhile, the buyer has sent the same request to four other suppliers, and the first substantive answer he receives becomes the benchmark everyone else has to beat. In many categories, the deal is effectively decided in the first 24 hours, long before price is compared.
-  </p>
-
-  <p>
-    <b>The fix. </b>A first reply within one business day, three sentences long: confirm receipt, state what happens next, and ask the one question that unblocks you. If you can already give a rough price range or a lead time, give it. Speed reads as competence, and it costs you nothing but a habit.
-  </p>
-
-    <h4 id="the-30-day-order-of-work">
-      The 30-day order of work
-    </h4>
-
-  <p>
-    Do not fix these in the order they appear above. Fix them in this order:
-  </p>
-
-  <p>
-    <b>Week 1 — </b>Gates 6 and 7. The form and the response habit. Cheapest changes, fastest effect, no design work.<br><b>Week 2 —</b> Gates 2 and 5. The first screen and the ladder of next steps. A day of writing, applied to your highest-traffic pages.<br><b>Week 3 —</b> Gate 4. Specifications, lead times, and price drivers on the three products that bring the most traffic.<br><b>Week 4 — </b>Gate 3. The verification block, then a recurring monthly habit of reviewing Gate 1 in your analytics.
-  </p>
-
-  <p>
-    At the end of the month, compare inquiries against your starting number. If traffic is unchanged and inquiries moved, you found the real bottleneck. If nothing moved, you have narrowed the problem to traffic quality — which is a much better conversation to be having than "the website does not work".
-  </p>
-
-    <h4 id="what-this-is-not">
-      What this is not
-    </h4>
-
-  <p>
-    This is not a case for redesigning your site, changing your platform, or posting more content. Those are answers to questions you have not asked yet.
-  </p>
-
-  <p>
-    The uncomfortable part of the audit is that most of the failures it finds are not technical. They are things you already knew but had never written down: what you sell, for whom, at what minimum, in how long, backed by what proof, answered by whom. Buyers are not asking for a better website. They are asking for those answers, in a form they can check.
-  </p>
-
-  <p>
-    Write them down, publish them where a buyer can find them, and put a name at the end of the contact form. That is the whole job.
+    <p>There is a sentence that gets said in almost every export meeting, and it is rarely examined: <em>we should be doing the US.</em></p>
+<br>
+<br><p>Ask why, and you will get one of three answers. Because that is where the volume is. Because our competitors are already there. Because it is the biggest market in the world.</p>
+<br>
+<br><p>Notice what all three have in common. They are statements about other people. Volume is about other people's demand. Competitors are other people's choices. Size is a fact about a country, not a fact about your factory.</p>
+<br>
+<br><p>None of them says anything about you — about what your evidence supports, what your certificates actually cover, or what your cash flow can survive. And a market decision made entirely out of statements about other people is not a strategy. It is a bet using someone else's reasoning.</p>
+<br>
+<br><h2>The default answer, and why it feels like a decision</h2>
+<br>
+<br><p>The United States becomes the default answer for a good reason: it is the easiest market to <em>research</em>. Trade shows publish exhibitor lists. Import records are searchable. Industry associations publish their standards. Buyers have English-language websites, and so do their competitors.</p>
+<br>
+<br><p>That transparency is genuinely useful. It is also the trap. The same openness that lets you study the market lets every other exporter study it too. When information about a market is free, information stops being an advantage. What is left is price and proof — and price is the part you can least afford to compete on.</p>
+<br>
+<br><p>So the correct reading of "everyone is going there" is not <em>the market is validated</em>. It is <em>the market is crowded with people who also could not answer the question</em>.</p>
+<br>
+<br><h2>The costs people forget to price</h2>
+<br>
+<br><p>Most exporters who count the cost of entering the US count freight and duty. Those are real, but they are also the parts you can look up. The parts that decide whether you make money arrive later.</p>
+<br>
+<br><p><strong>Standards and certification.</strong> Every market recognises particular standards through particular bodies. What matters is not whether you hold a certificate. It is whether the certificate covers the product you are actually shipping, whether it was issued by a body your buyer's compliance team recognises, and whether the factory address on it is the address that will produce the order. Buyers verify all three. A certificate that turns out to cover a different product line is worse than no certificate at all, because it looks like an attempt.</p>
+<br>
+<br><p><strong>Liability.</strong> Once goods circulate in a mature market, responsibility travels along the chain to whoever can pay. That is why insurance, traceability and defect clauses come up in the first meeting rather than the last. If your quotation has no position on them, you are not cheap — you are undefined, and undefined is expensive for the buyer to carry.</p>
+<br>
+<br><p><strong>Channel depth.</strong> Mature markets are layered: importer, distributor, dealer, contractor. Each layer needs a margin, and each layer will ask you to hold stock, extend terms, or protect their territory. Your ex-works price has to leave room for a chain that may be three parties long. A price that works in a market where you sell to the end user directly does not survive that structure.</p>
+<br>
+<br><p><strong>Payment behaviour.</strong> Long-established buyers expect to be invoiced and to pay later. That is normal, and it is a financing cost you carry. A business that cannot fund sixty or ninety days of receivables is not ready for the market it is aiming at, however good the product is.</p>
+<br>
+<br><p>None of these four is solved by working harder. They have to be priced in before you quote — which means the decision to enter has to be made before the decision about what to charge.</p>
+<br>
+<br><h2>When following the crowd is actually right</h2>
+<br>
+<br><p>It would be dishonest to say the crowd is always wrong. Following it is efficient when it is a shortcut past work you do not need to do. That is true when:</p>
+<br>
+<br><ul>
+<br>  <li><strong>You already have a partner there.</strong> An existing customer, an agent, a joint venture, a licence — somebody whose name can be put in front of a new buyer. This is the strongest single reason to enter a market, and it is not a reason that comes from the crowd.</li>
+<br>  <li><strong>Your documentation is already recognised there.</strong> Not "we hold certificates", but "these specific certificates, from these bodies, cover these products, and our buyer's compliance team has seen them before."</li>
+<br>  <li><strong>You can absorb one significant claim.</strong> Not the value of the claim itself — the disruption while it is resolved, plus the reserve you will have to hold afterwards.</li>
+<br>  <li><strong>The volume fits capacity you already have.</strong> If you are adding a market to fill idle lines, follow the crowd if it fits. If you are adding a market by building capacity first, the crowd's opinion is irrelevant and your own careful reading of a smaller market is probably better.</li>
+<br></ul>
+<br>
+<br><p>Four out of four, and going to the US is not a bet at all. Anything less, and you are not following a strategy. You are following a queue.</p>
+<br>
+<br><h2>Ask a different question</h2>
+<br>
+<br><p>The question that produces a decision is not <em>which market is biggest</em>. It is <em>which market will read the evidence I already have</em>.</p>
+<br>
+<br><p>Three questions get you most of the way there, and none of them costs anything.</p>
+<br>
+<br><p><strong>1. Who has already spoken for you?</strong> Is there a name, a shipment, a project or a partner in that market you can point to? A buyer in a new market is looking for the shortest path to trusting you, and an existing relationship is that path. If the answer is nobody, every other question gets harder.</p>
+<br>
+<br><p><strong>2. Does your documentation count there?</strong> List what you hold — quality systems, product certificates, test reports — and for each one write down who issued it, what product scope it covers, and whether that body is recognised in the target market. This takes an afternoon and it changes the shortlist more often than any market report will.</p>
+<br>
+<br><p><strong>3. Can you survive the first claim?</strong> In a market with enforceable liability, assume there will be one. Not because your product is bad, but because that is what a mature market does. If the answer is no, the market you want is smaller, with a shorter chain and faster payment. That is a perfectly good market — it is just not the one everyone is talking about.</p>
+<br>
+<br><p>Run these against two or three candidates and you will often find the largest one is not the one to start with. <a href="/blog/how-to-pick-your-first-export-market/">How to Pick Your First Export Market Without a Research Budget</a> is the two-week process for doing exactly that with no budget.</p>
+<br>
+<br><h2>Using the crowd as data, not as a verdict</h2>
+<br>
+<br><p>None of this means ignoring what other exporters do. Their choices are real information. But they are <strong>hypotheses</strong>, and a hypothesis is only useful once something tests it.</p>
+<br>
+<br><p>The correct use of "everyone is going to the US" is to write it at the top of a list as candidate number one, then run the three questions against it and against two alternatives. Sometimes it survives — and then you have something better than enthusiasm. You have a decision with reasons you can revisit when the first results come in.</p>
+<br>
+<br><p>What you should stop doing is treating a market as chosen because it was chosen by other people. Their reasons may be excellent. You simply do not know what they are, and you are the one who has to pay for the answer.</p>
+<br>
+<br><h2>The one thing to remember</h2>
+<br>
+<br><p>The US is not a wrong answer. It is a hypothesis that has been repeated so many times that people have stopped testing it.</p>
+<br>
+<br><p>Test it. If it passes, go — with your eyes open about what the market will ask of you. If it fails, the fact that everyone else is going is not a reason to follow. It is a reason to look at what they might be missing.</p>
+<br>
+<br><p><em>If you want to talk through which market your evidence actually supports, that is the kind of question I write about — <a href="/work-with-me/">get in touch</a>.</em></p>
   </p>
             ]]>
         </content>

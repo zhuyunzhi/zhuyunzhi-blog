@@ -493,4 +493,23 @@
     n.textContent = 'design draft';
     document.body.appendChild(n);
   }
+
+  /* ----------------------------------------------------------
+     14. 关于页「近况」清单（Publii 适配）
+     后台那个字段是纯文本框，一行一条。这里把每行包成 <li>，
+     让 .now li 的横线与强调色破折号生效 —— 跟 1b 的跑马灯同理：
+     让后台永远只有一个简单输入框，标记由这里补。
+     没有 JS 时那段文字仍然读得到，只是少了逐行样式。
+     ---------------------------------------------------------- */
+  Array.prototype.forEach.call(document.querySelectorAll('ul[data-lines]'), function (box) {
+    var lines = (box.textContent || '').split(/\r?\n/)
+      .map(function (s) { return s.trim(); })
+      .filter(function (s) { return s.length > 0; });
+    if (!lines.length) { return; }
+    box.innerHTML = lines.map(function (s) {
+      var li = document.createElement('li');
+      li.textContent = s;
+      return li.outerHTML;
+    }).join('');
+  });
 })();
