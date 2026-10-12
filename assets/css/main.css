@@ -1193,3 +1193,46 @@ html:not(.has-js) .mnav{display:none}
   .wri__grid{grid-template-columns:minmax(0,1fr)}
 }
 
+/* ============================================================
+   20. 合作页（page-work-with-me.hbs）
+   与关于页同理：区块全部复用第 17 节已经写好的组件
+   （.pagehead / .svc / .steps / .callout / .faq / .contact / .dl），
+   这一节只补四件「复用不了」的事。
+   ============================================================ */
+
+/* 1) 后台那些「一行一条」的文本框是以裸文字进到 <ul> 里的，site.js 再把每行
+      包成 <li>。在 JS 跑之前（以及 JS 失效时）不该看到浏览器默认的项目符号
+      和 40px 缩进。注：.svc ul li 与 .now li 各有自己的破折号，不受影响。 */
+ul[data-lines]{list-style:none;margin:0;padding:0}
+
+/* 2) 摘要框的「弱化版」：设计稿里第二个框是行内改色，这里收成类。
+      框里同样是 data-lines 列表，补一套行样式（.callout p 覆盖不到 li）。 */
+.callout--muted{border-left-color:var(--muted)}
+.callout--muted .callout__t{color:var(--muted)}
+.callout ul li{display:flex;gap:10px;font-size:.95em;color:var(--muted);padding-block:3px}
+.callout ul li::before{content:"\2014";color:var(--accent);flex:0 0 auto}
+
+/* 3) 结尾联系区：设计稿用的是行内 style，收成类。
+     只加上分隔线与标题尺寸，**不动 .contact 自己的栅格** ——
+     它在 @media(max-width:900px) 里会变单列，加 .wkm 之类的前缀
+      会把那一步连同权重一起压掉。 */
+.sec--topline{border-top:1px solid var(--rule)}
+.contact__t{margin-top:14px;font-size:clamp(26px,3.4vw,50px)}
+.contact__p{margin-top:16px;color:var(--muted);max-width:40ch}
+
+/* 4) 邮箱卡：这一页不放表单（静态站收不到信），改成「地址 + 一键复制」。
+      按钮沿用 .btn —— 主题有全局 button reset（font/color/background/
+      border 都清过了），所以 <button class="btn"> 拿出来就能用。 */
+.mailcard{
+  border:1px solid var(--rule);padding:clamp(22px,2.8vw,34px);
+  display:flex;flex-direction:column;align-items:flex-start;gap:15px;
+}
+.mailcard__a{
+  font-family:var(--f-mono);font-size:clamp(15px,1.55vw,21px);letter-spacing:.02em;
+  color:var(--ink);border-bottom:1px solid var(--accent);padding-bottom:5px;
+  word-break:break-all;max-width:100%;
+}
+.mailcard__a:hover{color:var(--accent)}
+.mailcard__btn{margin-top:4px}
+.mailcard__ok{opacity:0;transition:opacity .4s;color:var(--accent)}
+.mailcard__ok.is-on{opacity:1}

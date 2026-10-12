@@ -681,4 +681,89 @@
       if (k) showWriTab(k);
     });
   }
+  /* ----------------------------------------------------------
+     16. 合作页：邮箱一键复制 + 信息列表（Publii 适配）
+     两件事共用同一个理由 —— 后台只留最简单的输入框，标记与交互由这里补。
+
+     (a) [data-copy]：点击把 data-copy 的值写进剪贴板，按钮短暂变 Copied。
+         ⚠️ 2026-10-12 实测（headless + headful 各跑一遍）：Chrome 把 file:// 也算作
+         安全上下文 —— navigator.clipboard 在本地预览里是可用的，writeText() 直接
+         resolve。所以「本地点了没反应」不是 clipboard 缺失造成的，别往那儿查。
+         但 http 的普通域名、老浏览器、或用户拒绝写权限时，它就不在/会抛错，
+         所以 execCommand 那条老路仍然必须留着 —— 那是唯一的兜底。
+     (b) dl[data-dl]：字段是纯文本框，一行一条、写成「标签|值」，
+         这里拆成 div > dt + dd，配上 .dl 的左右分栏。
+         没有 JS 时那些文字仍然读得到（只是不分栏、没有分隔线）。
+     ---------------------------------------------------------- */
+
+  /* (a) 复制邮箱 */
+  Array.prototype.forEach.call(document.querySelectorAll('[data-copy]'), function (btn) {
+    var ok = btn.parentNode ? btn.parentNode.querySelector('.mailcard__ok') : null;
+    var okText = ok ? ok.textContent : '';
+    var label = btn.querySelector('span');
+    var labelText = label ? label.textContent : '';
+    var timer = null;
+
+    function flash() {
+      if (ok) {
+        ok.textContent = okText;
+        ok.classList.add('is-on');
+        if (timer) { clearTimeout(timer); }
+        timer = setTimeout(function () { ok.classList.remove('is-on'); }, 2200);
+      }
+      if (label) {
+        label.textContent = 'Copied';
+        setTimeout(function () { label.textContent = labelText; }, 2200);
+      }
+    }
+
+    /* 老路：file:// 下没有 clipboard API，只能拿一个隐藏 textarea + select 顶一下 */
+    function legacy() {
+      var ta = document.createElement('textarea');
+      ta.value = btn.getAttribute('data-copy') || '';
+      ta.setAttribute('readonly', '');
+      ta.style.cssText = 'position:absolute;left:-9999px;top:0;opacity:0';
+      document.body.appendChild(ta);
+      ta.select();
+      var okFlag = false;
+      try { okFlag = document.execCommand('copy'); } catch (e) { okFlag = false; }
+      document.body.removeChild(ta);
+      if (okFlag) {
+        flash();
+      } else if (ok) {
+        ok.textContent = 'Copy blocked — select the address above';
+        ok.classList.add('is-on');
+      }
+    }
+
+    btn.addEventListener('click', function () {
+      var text = btn.getAttribute('data-copy') || '';
+      if (!text) { return; }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(flash, legacy);
+      } else {
+        legacy();
+      }
+    });
+  });
+
+  /* (b) 一行一条的「标签|值」→ dl > div > dt + dd */
+  Array.prototype.forEach.call(document.querySelectorAll('dl[data-dl]'), function (box) {
+    var rows = (box.textContent || '').split(/\r?\n/)
+      .map(function (s) { return s.trim(); })
+      .filter(function (s) { return s.length > 0; });
+    if (!rows.length) { return; }
+    box.innerHTML = rows.map(function (row) {
+      var i = row.indexOf('|');
+      var div = document.createElement('div');
+      var dt = document.createElement('dt');
+      var dd = document.createElement('dd');
+      dt.textContent = (i < 0 ? row : row.slice(0, i)).trim();
+      dd.textContent = (i < 0 ? '' : row.slice(i + 1)).trim();
+      div.appendChild(dt);
+      div.appendChild(dd);
+      return div.outerHTML;
+    }).join('');
+  });
+
 })();
