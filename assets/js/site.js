@@ -303,7 +303,20 @@
   }
 
   /* ----------------------------------------------------------
-     4. 当前页高亮（按文件名自动判断，改页面不用手改导航）
+     4. 路径工具（normPath）
+     ----------------------------------------------------------
+     ⚠️ 这一段原来还兼做「导航当前页高亮」——2026-10-10 已把那段 JS 删掉。
+     原因：Publii 预览模式下菜单链接会渲染成
+         file:///D:\...\preview/index.html
+     而 preview\tags\index.html 正好以 preview\ 开头，于是
+     「Home」在**任何页面**都命中 is-cur，下划线永远不消失。
+     （生产环境菜单链接是 https://域名/ ，target 恰好等于 '/'，第二条判断
+       被 target !== '/' 挡掉，所以线上反而看不出这个 bug —— 它只在预览里出现。）
+     现在改由模板在**渲染期**用 Publii 官方助手 {{menuItemClassesRaw}} 输出
+     is-cur / is-cur-parent，判定依据是 renderer.menuContext（frontpage /
+     tags / tag / page / post 等真实页面类型），预览与线上完全一致，
+     而且不用等 JS 就有正确高亮。
+     normPath 仍被第 15 节（分类页左栏高亮）使用，所以保留在这里。
      ---------------------------------------------------------- */
   function normPath(u) {
     if (!u || u.charAt(0) === '#') return '';
@@ -313,12 +326,6 @@
     return u || '/';
   }
   var here = normPath(location.pathname);
-  Array.prototype.forEach.call(document.querySelectorAll('[data-nav]'), function (a) {
-    var target = normPath(a.getAttribute('href'));
-    if (!target) return;
-    if (target === here) { a.classList.add('is-cur'); return; }
-    if (target !== '/' && here.indexOf(target + '/') === 0) a.classList.add('is-cur');
-  });
 
   /* ----------------------------------------------------------
      5. 页头滚动态 + 光斑
@@ -512,4 +519,166 @@
       return li.outerHTML;
     }).join('');
   });
+
+  /* ----------------------------------------------------------
+     15. Writing 页（tags.hbs）：分类 Tabs + 页内翻页
+     ----------------------------------------------------------
+     左栏点一下即时切换右侧面板，不刷新页面；每个面板按 data-per
+     （默认 9）分页，超出部分用全站同款分页条翻页。
+     左栏的分类项本身是真链接 —— 无 JS、右键、在新标签页打开
+     都会正常进入该分类页（tag.hbs），所以这里是渐进增强。
+     ---------------------------------------------------------- */
+
+  /* 窄屏时左栏是一条可横向滑动的分类条：把当前高亮项滚进可视区。
+     ⚠️ 不滚的话，点第 5 个分类（如 Notes）后它落在 x=573 而可视宽度只有
+        ~354px —— 高亮确实切对了，但用户看不见「当前在哪一栏」。
+     桌面上左栏是竖列、不横向滚动，scrollWidth 不会超出，天然是空操作。 */
+  function revealRail(el) {
+    if (!el) return;
+    var rail = el.closest ? el.closest('.wri__rail') : null;
+    if (!rail) return;
+    if (rail.scrollWidth <= rail.clientWidth + 1) return;
+    var want = el.offsetLeft - (rail.clientWidth - el.offsetWidth) / 2;
+    var max = rail.scrollWidth - rail.clientWidth;
+    if (want < 0) want = 0;
+    if (want > max) want = max;
+    if (rail.scrollTo) rail.scrollTo({ left: want, behavior: 'smooth' });
+    else rail.scrollLeft = want;
+  }
+
+  /* 分类页（tag.hbs）左栏：把当前所在的分类标成高亮。
+     ⚠️ 必须取「最长匹配」，否则 /tags（All）是 /tags/sourcing 的前缀，
+        两者会同时高亮。（All 只在 /tags/ 本页才是精确命中。） */
+  var wBest = null, wBestLen = -1;
+  Array.prototype.forEach.call(document.querySelectorAll('[data-wcat]'), function (a) {
+    var t = normPath(a.getAttribute('href'));
+    if (!t) return;
+    var hit = (t === here) || (t !== '/' && here.indexOf(t + '/') === 0);
+    if (hit && t.length > wBestLen) { wBest = a; wBestLen = t.length; }
+  });
+  if (wBest) { wBest.classList.add('is-on'); revealRail(wBest); }
+
+  var wri = document.querySelector('[data-wri]');
+  if (wri) {
+    var wPer = parseInt(wri.getAttribute('data-per'), 10) || 9;
+    var wTabs = wri.querySelectorAll('[data-wtab]');
+    var wPanels = wri.querySelectorAll('[data-wpanel]');
+    var wLbl = {
+      newer: wri.getAttribute('data-newer') || 'Newer',
+      older: wri.getAttribute('data-older') || 'Older',
+      page: wri.getAttribute('data-page') || 'Page',
+      of: wri.getAttribute('data-of') || 'of'
+    };
+
+    /* 点分类 tab 时，页头（kicker / 标题 / 描述 / 统计）也要跟着换，
+       否则会出现「卡片换了、标题还写着 Writing」的割裂感 ——
+       用户要的是「切过去=到了那个分类页」，所以这里对齐 tag.hbs 的页头。
+       文案全部由模板写在 tab 的 data-* 上（含翻译好的词），JS 只负责搬运。 */
+    var wHead = {
+      k: document.querySelector('[data-wintro-k]'),
+      t: document.querySelector('[data-wintro-t]'),
+      d: document.querySelector('[data-wintro-d]'),
+      m1: document.querySelector('[data-wmeta="1"]'),
+      m2: document.querySelector('[data-wmeta="2"]')
+    };
+    function paintWriHead(tab) {
+      if (!tab) return;
+      var k = tab.getAttribute('data-wkick') || '';
+      if (wHead.k && k) wHead.k.textContent = k;
+
+      var t = tab.getAttribute('data-wtitle') || '';
+      if (wHead.t && t) wHead.t.textContent = t;
+
+      /* 描述是富文本（标签描述里带 <p>），用 innerHTML 还原；
+         空描述就把整段收起来，别留一个空行。 */
+      if (wHead.d) {
+        var d = tab.getAttribute('data-wdeck') || '';
+        wHead.d.innerHTML = d;
+        wHead.d.hidden = !d;
+      }
+
+      /* 统计那行：All 显示「6 categories · 15 articles」，
+         分类页只显示「N articles」—— meta1 为空即隐藏。 */
+      var pairs = [[wHead.m1, tab.getAttribute('data-wmeta1')],
+                   [wHead.m2, tab.getAttribute('data-wmeta2')]];
+      for (var i = 0; i < pairs.length; i++) {
+        var el = pairs[i][0], v = pairs[i][1] || '';
+        if (!el) continue;
+        el.textContent = v;
+        el.hidden = !v;
+      }
+    }
+
+    function buildWriPager(panel) {
+      var grid = panel.querySelector('.wri__grid');
+      var nav = panel.querySelector('[data-wpager]');
+      if (!grid || !nav) return;
+      var cards = Array.prototype.slice.call(grid.children);
+      var total = Math.ceil(cards.length / wPer);
+      if (cards.length < 1 || total < 2) { nav.hidden = true; return; }
+      var cur = 1;
+      nav.hidden = false;
+      nav.innerHTML =
+        '<button type="button" class="pager__a" data-pg="prev"><i>&#8592;</i><span>' + wLbl.newer + '</span></button>' +
+        '<span class="tag" data-pg="info"></span>' +
+        '<button type="button" class="pager__a" data-pg="next"><span>' + wLbl.older + '</span><i>&#8594;</i></button>';
+      var info = nav.querySelector('[data-pg="info"]');
+      var prev = nav.querySelector('[data-pg="prev"]');
+      var next = nav.querySelector('[data-pg="next"]');
+      function draw() {
+        for (var i = 0; i < cards.length; i++) {
+          cards[i].style.display = (i >= (cur - 1) * wPer && i < cur * wPer) ? '' : 'none';
+        }
+        info.textContent = wLbl.page + ' ' + cur + ' ' + wLbl.of + ' ' + total;
+        prev.disabled = (cur === 1);
+        next.disabled = (cur === total);
+        prev.classList.toggle('is-off', cur === 1);
+        next.classList.toggle('is-off', cur === total);
+      }
+      prev.addEventListener('click', function () { if (cur > 1) { cur--; draw(); } });
+      next.addEventListener('click', function () { if (cur < total) { cur++; draw(); } });
+      draw();
+    }
+
+    Array.prototype.forEach.call(wPanels, buildWriPager);
+
+    function showWriTab(key) {
+      var hit = false;
+      Array.prototype.forEach.call(wPanels, function (p) {
+        var on = (p.getAttribute('data-wpanel') === key);
+        p.classList.toggle('is-on', on);
+        if (on) hit = true;
+      });
+      Array.prototype.forEach.call(wTabs, function (t) {
+        var on = (t.getAttribute('data-wtab') === key);
+        t.classList.toggle('is-on', on);
+        if (t.tagName === 'BUTTON') t.setAttribute('aria-pressed', on ? 'true' : 'false');
+        if (on) { revealRail(t); paintWriHead(t); }
+      });
+      return hit;
+    }
+
+    Array.prototype.forEach.call(wTabs, function (t) {
+      t.addEventListener('click', function (e) {
+        if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;   /* 放给浏览器：走真链接 */
+        var key = t.getAttribute('data-wtab');
+        if (showWriTab(key)) {
+          e.preventDefault();
+          if (history.replaceState) {
+            history.replaceState(null, '', key === 'all' ? (location.pathname + location.search) : '#' + key);
+          }
+        }
+      });
+    });
+
+    var wDefault = 'all';
+    Array.prototype.forEach.call(wTabs, function (t) {
+      if (t.classList.contains('is-on')) wDefault = t.getAttribute('data-wtab');
+    });
+    if (!showWriTab((location.hash || '').replace(/^#/, ''))) showWriTab(wDefault);
+    window.addEventListener('hashchange', function () {
+      var k = (location.hash || '').replace(/^#/, '');
+      if (k) showWriTab(k);
+    });
+  }
 })();
